@@ -41,6 +41,7 @@ const config: QuartzConfig = {
           secondary: "#f48498",
           tertiary: "#dab894",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#212529",
@@ -74,6 +75,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "relative" }),
       Plugin.Description(),
+      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.ExplicitPublish()],
     emitters: [
