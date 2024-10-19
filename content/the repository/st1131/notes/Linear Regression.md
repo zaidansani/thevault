@@ -35,6 +35,7 @@ For $Y \sim X$:
 1. Data obtained by **randomisation**
 2. **Linearity** of the relationship
 3. Error term $\epsilon$ is normal
+4. Constant variance
 
 Note: assumptions can only be checked **after** model is fitted.
 

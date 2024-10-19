@@ -3,6 +3,8 @@ publish: true
 title: Random Variables
 ---
 
+
+
 > [!info] Random variable
 > Numerical measurement of outcome of an experiment.
 
