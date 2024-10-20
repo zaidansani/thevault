@@ -15,13 +15,14 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "zaidansani.github.io/vault",
+    baseUrl: "zaidansani.github.io/thevault",
     ignorePatterns: [
       "the repository/administrative", 
       "private", 
       "the repository/templates", 
       ".obsidian",
-      "the repository/.obsidian",],
+      "the repository/.obsidian",
+      "*/media/*.md",],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -77,7 +78,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.ExplicitPublish()],
+    filters: [],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
