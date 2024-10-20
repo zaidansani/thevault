@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Encapsulation
+tags:
+  - CS2030S
+  - object_oriented_programming
 ---
 > [!summary] Using a composite data type to group types together and its associated functions together.
 

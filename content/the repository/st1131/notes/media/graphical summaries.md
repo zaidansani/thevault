@@ -3,6 +3,7 @@
 excalidraw-plugin: parsed
 tags: [excalidraw]
 
+title: graphical summaries
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

@@ -1,5 +1,9 @@
 ---
 title: Sequential Logic
+tags:
+  - digital_logic
+  - computer_architecture
+  - CS2100
 ---
 There are 2 types of sequential circuits:
 - Synchronous: outputs change at specific time

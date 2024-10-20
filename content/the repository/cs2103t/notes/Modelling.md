@@ -1,6 +1,8 @@
 ---
 tags:
   - software_engineering
+  - CS2103/T
+  - UML
 title: Modelling
 ---
 Models are useful in several ways:

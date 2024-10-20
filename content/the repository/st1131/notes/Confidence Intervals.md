@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Confidence Intervals
+tags:
+  - statistics
+  - ST1131
 ---
 > [!note] Statistical inference
 > Making statistical inference about the population using sample data.

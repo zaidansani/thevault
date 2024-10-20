@@ -1,6 +1,7 @@
 ---
 tags:
   - linguistics
+  - EL1101E
 title: Word Class
 ---
 > [!definition] Word class

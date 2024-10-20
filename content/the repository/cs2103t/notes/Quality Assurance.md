@@ -1,6 +1,8 @@
 ---
 tags:
   - software_engineering
+  - CS2103/T
+  - software_testing
 title: Quality Assurance
 ---
 # Testing

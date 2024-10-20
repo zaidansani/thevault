@@ -1,6 +1,9 @@
 ---
-publish: true
 title: Immutability
+tags:
+  - CS2030S
+  - java_programming
+  - functional_programming
 ---
 >[!summary] If an object is immutable, once it has been initialised, it cannot be changed.
 

@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Floyd-Warshall
+tags:
+  - CS2040S
+  - algorithms
 ---
 [Dynamic Programming](../Paradigms/Dynamic%20Programming.md)
 # Subproblems
@@ -12,7 +14,7 @@ $$S[v, w, P_k]= min( S[v, w, P_{k-1}], S[v, x, P_{k-1}] + S[x, w, P_{k-1}])$$
 ## Derivation
 
 ![[diagrams/floyd-warshall.svg]]
-%%[[diagrams/floyd-warshall.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/floyd-warshall|🖋 Edit in Excalidraw]]%%
 
 Consider that the shortest distance from vertex `a` to another vertex `c` in the set of nodes is the minimum between
 - the shortest distance from `a` to `c` within the set of nodes $P_2$ denoted in blue OR

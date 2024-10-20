@@ -1,5 +1,9 @@
 ---
 title: Datapath (Summary)
+tags:
+  - CS2100
+  - computer_architecture
+  - MIPS
 ---
 ```C
 function FETCH();

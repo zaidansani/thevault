@@ -1,5 +1,8 @@
 ---
 title: Design Fundamentals
+tags:
+  - software_engineering
+  - CS2103/T
 ---
 # Abstraction
 > [!definition] Abstraction

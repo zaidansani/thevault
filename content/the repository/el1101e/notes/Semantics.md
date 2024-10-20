@@ -1,5 +1,8 @@
 ---
 title: Semantics
+tags:
+  - linguistics
+  - EL1101E
 ---
 
 # Word Relations

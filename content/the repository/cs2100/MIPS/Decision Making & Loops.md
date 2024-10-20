@@ -1,6 +1,8 @@
 ---
 tags:
   - computer_architecture
+  - CS2100
+  - MIPS
 title: Decision Making & Loops
 ---
 # Decision Making

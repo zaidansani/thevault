@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Data Collection
+tags:
+  - statistics
+  - ST1131
 ---
 # Lurking and Confounding Variables
 

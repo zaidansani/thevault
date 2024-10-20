@@ -1,5 +1,9 @@
 ---
 title: MSI Components
+tags:
+  - computer_architecture
+  - CS2100
+  - digital_logic
 ---
 > [!definition] Integrated Circuit
 > 

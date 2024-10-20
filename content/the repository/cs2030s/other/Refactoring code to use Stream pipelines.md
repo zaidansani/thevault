@@ -1,6 +1,7 @@
 ---
-publish: true
 title: Refactoring code to use Stream pipelines
+tags:
+  - CS2030S
 ---
 Converting code to use `Stream` pipelines can be slightly difficult due to multiple reasons, such as unfamiliarity with the API, or an inability to visualise.
 

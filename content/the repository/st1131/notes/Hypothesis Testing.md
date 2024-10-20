@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Hypothesis Testing
+tags:
+  - statistics
+  - ST1131
 ---
 
 # Quick Links
@@ -128,10 +130,10 @@ When these hold, if the point estimate found in the significance test is within 
 $$
 H_{0}: p=p_0
 $$
-$$H_{1}: p = p_{0} \text{ or } H_{1}: p < p_{0} \text{ or } H_{1}: p > p_{0} $$
+$$H_{1}: p \neq p_{0} \text{ or } H_{1}: p < p_{0} \text{ or } H_{1}: p > p_{0} $$
 ## 3. Test Statistic
 
-With the statistics $\hat{p}, p_{0}, n$:
+With the statistics $\hat{p}, p_{0}, n$:u d
 $$
 Z = \frac{\hat{p} - p_0}{\sqrt{\frac{p_0(1-p_0)}{n}}}
 $$
@@ -139,7 +141,7 @@ Note that $Z \sim N(0,1)$
 ## 4. Calculate p-value
 
 ![[media/pvalue.svg]]
-%%[[media/pvalue.md|🖋 Edit in Excalidraw]]%%
+%%[[media/pvalue|🖋 Edit in Excalidraw]]%%
 
 Compute $p-$value using `R` - `pnorm(Z)`
 
@@ -175,7 +177,7 @@ Note that if $H_0$ is true: $T$ follows $t-$distribution with $n-1$ degrees of f
 ## 4. Calculate p-value
 
 ![[media/pvalue.svg]]
-%%[[media/pvalue.md|🖋 Edit in Excalidraw]]%%
+%%[[media/pvalue|🖋 Edit in Excalidraw]]%%
 
 Compute $p-$value.
 
@@ -223,7 +225,7 @@ Note that if $H_0$ is true: $T$ follows $t-$distribution with $(n_{1}+ n_{2} -2)
 ## 4. Calculate p-value
 
 ![[media/pvalue.svg]]
-%%[[media/pvalue.md|🖋 Edit in Excalidraw]]%%
+%%[[media/pvalue|🖋 Edit in Excalidraw]]%%
 
 Compute $p-$value.
 
@@ -269,7 +271,7 @@ Note that if $H_0$ is true: $T$ follows $t-$distribution with a $df$ degrees of 
 ## 4. Calculate p-value
 
 ![[media/pvalue.svg]]
-%%[[media/pvalue.md|🖋 Edit in Excalidraw]]%%
+%%[[media/pvalue|🖋 Edit in Excalidraw]]%%
 
 Compute $p-$value.
 

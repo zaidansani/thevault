@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Quick-Union
+tags:
+  - CS2040S
+  - algorithms
 ---
 
 | object | .... |

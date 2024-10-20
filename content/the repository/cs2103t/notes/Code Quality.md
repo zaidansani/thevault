@@ -1,6 +1,7 @@
 ---
 tags:
   - software_engineering
+  - CS2103/T
 title: Code Quality
 ---
 > [!quote] Martin Golding

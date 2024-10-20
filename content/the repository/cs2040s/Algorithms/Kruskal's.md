@@ -1,6 +1,8 @@
 ---
-publish: true
-title: "Kruskal's"
+title: Kruskal's
+tags:
+  - algorithms
+  - CS2040S
 ---
 Utilises the [Red-Blue Rule](Red-Blue%20Rule.md) on the edges.
 
@@ -11,7 +13,7 @@ Utilises the [Red-Blue Rule](Red-Blue%20Rule.md) on the edges.
 $$ O(ElogV)$$
 
 ![[diagrams/kruskal.svg]]
-%%[[diagrams/kruskal.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/kruskal|🖋 Edit in Excalidraw]]%%
 # Proof of Correctness
 1. Each added edge crosses a cut
 2. Each edge is lightest edge across cut, all other edges across cut has been considered.

@@ -1,6 +1,7 @@
 ---
 tags:
   - c_programming
+  - CS2100
 title: Strings
 ---
 > [!abstract] String

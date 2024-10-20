@@ -2,6 +2,7 @@
 tags:
   - software_engineering
   - git
+  - CS2103/T
 title: Git
 ---
 # Setup

@@ -1,6 +1,7 @@
 ---
 tags:
   - c_programming
+  - CS2100
 title: Structures
 ---
 > [!abstract] Structures

@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Dynamic Connectivity
+tags:
+  - algorithms
+  - CS2040S
 ---
 > [!summary] Finding the shortest path between a pair of vertices.
 

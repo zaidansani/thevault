@@ -2,6 +2,7 @@
 title: Hypothesis Testing
 tags:
   - statistics
+  - ST2334
 ---
 > [!note] The five main steps
 > 1. Set hypotheses: null $H_{0}$ and alternative $H_{1}$

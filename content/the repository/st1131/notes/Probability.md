@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Probability
+tags:
+  - statistics
+  - ST1131
 ---
 # Concepts
 

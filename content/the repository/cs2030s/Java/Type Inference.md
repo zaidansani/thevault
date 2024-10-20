@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Type Inference
+tags:
+  - CS2030S
+  - java_programming
 ---
 # Rules
 - $Type1 <: T <: Type2$, then $T$ is inferred as $Type1$

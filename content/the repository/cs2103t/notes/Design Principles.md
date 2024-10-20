@@ -1,5 +1,8 @@
 ---
 title: Design Principles
+tags:
+  - CS2103/T
+  - software_engineering
 ---
 # SOLID Principles
 

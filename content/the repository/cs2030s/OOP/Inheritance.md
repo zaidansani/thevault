@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Inheritance
+tags:
+  - CS2030S
+  - object_oriented_programming
 ---
 >[!summary] Modeling the _IS-A_ relationship
 

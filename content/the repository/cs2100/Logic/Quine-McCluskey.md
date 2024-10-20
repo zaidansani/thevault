@@ -1,5 +1,9 @@
 ---
 title: Quine-McCluskey
+tags:
+  - computer_architecture
+  - CS2100
+  - digital_logic
 ---
 > [!note] This topic is optional.
 

@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Exploratory Data Analysis
+tags:
+  - statistics
+  - ST1131
 ---
 > [!note] **Exploratory data analysis** refers to the analysis of the variables (descriptive statistics) in a study.
 
@@ -196,7 +198,7 @@ We can look for:
 #### Scatterplot
 
 ![[media/scatterplots.svg]]
-%%[[media/scatterplots.md|🖋 Edit in Excalidraw]]%%
+%%[[media/scatterplots|🖋 Edit in Excalidraw]]%%
 
 Look for
 - relationship/association between two variables

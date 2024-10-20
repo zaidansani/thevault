@@ -1,6 +1,8 @@
 ---
-publish: true
-title: "Kahn's"
+title: Kahn's
+tags:
+  - CS2040S
+  - algorithms
 ---
 1. Add all nodes with in-degree $0$ to queue.
 2. For each outgoing edge from removed node, decrement in-degree of destination node by $1$.
@@ -9,7 +11,7 @@ title: "Kahn's"
 > [!example] Worked example
 
 ![[../Problems/diagrams/topological ordering.svg]]
-%%[[../Problems/diagrams/topological ordering.md|🖋 Edit in Excalidraw]]%%
+%%[[../Problems/diagrams/topological ordering|🖋 Edit in Excalidraw]]%%
 
 
 | Node      | A   | B   | C   | D   | E   |

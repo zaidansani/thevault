@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Minimum Spanning Tree
+tags:
+  - algorithms
+  - CS2040S
 ---
 > [!summary] An **acyclic** subset of edges that connects all nodes with minimum weight.
 

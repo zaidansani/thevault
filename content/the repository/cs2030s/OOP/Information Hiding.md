@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Information Hiding
+tags:
+  - CS2030S
+  - object_oriented_programming
 ---
 >[!summary] There should be an abstraction barrier between the client and the implementation.
 

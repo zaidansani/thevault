@@ -1,6 +1,7 @@
 ---
 tags:
   - linguistics
+  - EL1101E
 title: Morphology
 ---
 > [!definition] Morphology

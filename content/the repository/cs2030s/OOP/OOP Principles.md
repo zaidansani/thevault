@@ -1,6 +1,8 @@
 ---
-publish: true
 title: OOP Principles
+tags:
+  - CS2030S
+  - object_oriented_programming
 ---
 The key principles of Object-Oriented Programming are as such:
 1. [[Encapsulation]]

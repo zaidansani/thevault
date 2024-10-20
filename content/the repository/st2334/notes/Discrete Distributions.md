@@ -1,6 +1,7 @@
 ---
 tags:
   - statistics
+  - ST2334
 title: Discrete Distributions
 ---
 > [!definition] Discrete Uniform Distribution

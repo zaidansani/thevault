@@ -1,5 +1,8 @@
 ---
 title: Syntax
+tags:
+  - linguistics
+  - EL1101E
 ---
 > [!definition] Argument
 > Expression **required** by an argument-taking expression

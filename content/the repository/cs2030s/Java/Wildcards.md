@@ -1,6 +1,8 @@
 ---
-publish: true
 title: Wildcards
+tags:
+  - CS2030S
+  - java_programming
 ---
 >[!summary] 
 > Wildcards allow the bounding of the type parameters.

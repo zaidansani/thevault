@@ -1,6 +1,8 @@
 ---
 tags:
   - computer_architecture
+  - MIPS
+  - CS2100
 title: Introduction To MIPS
 ---
 > [!todo] Instruction Set Architecture

@@ -2,6 +2,7 @@
 title: Estimation
 tags:
   - statistics
+  - ST2334
 ---
 # Types of Estimation
 

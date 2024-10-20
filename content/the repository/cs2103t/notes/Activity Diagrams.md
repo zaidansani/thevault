@@ -1,5 +1,9 @@
 ---
 title: Activity Diagrams
+tags:
+  - software_engineering
+  - UML
+  - CS2103/T
 ---
 > [!definition] Activity diagrams
 > UML diagrams to model workflows.

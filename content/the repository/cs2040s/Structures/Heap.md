@@ -1,10 +1,12 @@
 ---
-publish: true
 title: Heap
+tags:
+  - CS2040S
+  - data_structures
 ---
 > [!info] Used to implement a max priority queue
 
-Used for [HeapSort](HeapSort.md)
+Used for [HeapSort](../Algorithms/HeapSort.md)
 # Properties
 
 ## Heap Ordering

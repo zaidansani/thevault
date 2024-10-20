@@ -1,6 +1,9 @@
 ---
-publish: true
 title: Lazy Evaluation
+tags:
+  - CS2030S
+  - java_programming
+  - functional_programming
 ---
 >[!summary] A type of [[Monads|monad]] allowing for the delay of an execution of a computation.
 
