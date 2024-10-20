@@ -1,9 +1,6 @@
 ---
 title: Simplification
-tags:
-  - digital_logic
-  - CS2100
-  - computer_architecture
+tags: [computer_architecture, CS2100, digital_logic]
 ---
 > [!note] Purpose of simplification
 > Simpler expression leads to circuit with lesser logic gates, resulting in cheaper, low-power-requirement, and sometimes faster.

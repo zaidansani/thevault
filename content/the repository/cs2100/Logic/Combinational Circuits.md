@@ -1,9 +1,6 @@
 ---
 title: Combinational Circuits
-tags:
-  - computer_architecture
-  - CS2100
-  - digital_logic
+tags: [computer_architecture, CS2100, digital_logic]
 ---
 > [!definition] Combinational circuit
 > Each output depends entirely on the immediate (present) inputs.

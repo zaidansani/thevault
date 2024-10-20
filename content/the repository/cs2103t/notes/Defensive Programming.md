@@ -1,8 +1,6 @@
 ---
 title: Defensive Programming
-tags:
-  - CS2103/T
-  - software_engineering
+tags: [CS2103/T, software_engineering]
 ---
 > [!note] Defensive programming
 > "If room is left for things to go wrong, they will go wrong."

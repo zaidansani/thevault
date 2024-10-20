@@ -1,7 +1,5 @@
 ---
-tags:
-  - software_engineering
-  - CS2103/T
+tags: [CS2103/T, software_engineering]
 title: Requirements
 ---
 > [!definition] Brownfield project

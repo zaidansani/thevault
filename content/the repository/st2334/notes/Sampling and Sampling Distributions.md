@@ -1,8 +1,6 @@
 ---
 title: Sampling and Sampling Distributions
-tags:
-  - statistics
-  - ST2334
+tags: [ST2334, statistics]
 ---
 
 > [!definition] Population

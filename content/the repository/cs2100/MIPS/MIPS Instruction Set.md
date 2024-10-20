@@ -1,9 +1,6 @@
 ---
 title: MIPS Instruction Set
-tags:
-  - computer_architecture
-  - MIPS
-  - CS2100
+tags: [computer_architecture, CS2100, MIPS]
 ---
 
 # Registers

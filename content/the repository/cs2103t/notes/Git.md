@@ -1,8 +1,5 @@
 ---
-tags:
-  - software_engineering
-  - git
-  - CS2103/T
+tags: [CS2103/T, git, software_engineering]
 title: Git
 ---
 # Setup

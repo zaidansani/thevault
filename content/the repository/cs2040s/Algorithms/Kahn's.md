@@ -1,8 +1,6 @@
 ---
-title: Kahn's
-tags:
-  - CS2040S
-  - algorithms
+title: "Kahn's"
+tags: [algorithms, CS2040S]
 ---
 1. Add all nodes with in-degree $0$ to queue.
 2. For each outgoing edge from removed node, decrement in-degree of destination node by $1$.

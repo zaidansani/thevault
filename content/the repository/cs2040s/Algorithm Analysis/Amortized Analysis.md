@@ -1,8 +1,6 @@
 ---
 title: Amortized Analysis
-tags:
-  - algorithm_analysis
-  - CS2040S
+tags: [algorithm_analysis, CS2040S]
 ---
 > [!summary] 
 > Used for algorithms where an occasional operation is very slow, but most of the other operations are faster.

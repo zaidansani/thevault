@@ -1,7 +1,5 @@
 ---
-tags:
-  - statistics
-  - ST2334
+tags: [ST2334, statistics]
 title: Random Variables
 ---
 > [!info] Random variable

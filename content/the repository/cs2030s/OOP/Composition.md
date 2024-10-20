@@ -1,8 +1,6 @@
 ---
 title: Composition
-tags:
-  - CS2030S
-  - object_oriented_programming
+tags: [CS2030S, object_oriented_programming]
 ---
 >[!summary] Modelling a _HAS-A_ relationship
 

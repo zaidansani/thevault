@@ -1,8 +1,6 @@
 ---
 title: Exceptions
-tags:
-  - CS2030S
-  - java_programming
+tags: [CS2030S, java_programming]
 ---
 > [!summary] Exception handling and error handling needs to be done for a fully-working application.
 

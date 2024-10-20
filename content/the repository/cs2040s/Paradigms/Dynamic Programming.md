@@ -1,8 +1,6 @@
 ---
 title: Dynamic Programming
-tags:
-  - algorithms
-  - CS2040S
+tags: [algorithms, CS2040S]
 ---
 Dynamic programming is a type of computational thinking that has two key properties:
 1. optimal sub-structure

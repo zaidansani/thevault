@@ -1,9 +1,6 @@
 ---
 title: Test Case Design
-tags:
-  - CS2103/T
-  - software_engineering
-  - software_testing
+tags: [CS2103/T, software_engineering, software_testing]
 ---
 Exhaustive testing is not practical. 
 

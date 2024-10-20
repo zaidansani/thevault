@@ -1,7 +1,5 @@
 ---
-tags:
-  - statistics
-  - ST2334
+tags: [ST2334, statistics]
 title: Continuous Distributions
 ---
 Natural random variables have sets of uncountable possible values.

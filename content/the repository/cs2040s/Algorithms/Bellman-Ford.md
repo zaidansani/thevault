@@ -1,8 +1,6 @@
 ---
 title: Bellman-Ford
-tags:
-  - CS2040S
-  - algorithms
+tags: [algorithms, CS2040S]
 ---
 # Time Complexity
 

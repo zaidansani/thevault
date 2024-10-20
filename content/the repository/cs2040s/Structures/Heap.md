@@ -1,8 +1,6 @@
 ---
 title: Heap
-tags:
-  - CS2040S
-  - data_structures
+tags: [CS2040S, data_structures]
 ---
 > [!info] Used to implement a max priority queue
 

@@ -1,8 +1,6 @@
 ---
 title: Design Approaches
-tags:
-  - CS2103/T
-  - software_engineering
+tags: [CS2103/T, software_engineering]
 ---
 Multi-level design can be done in
 - top-down manner

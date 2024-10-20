@@ -1,8 +1,6 @@
 ---
 title: Wrapper Classes
-tags:
-  - CS2030S
-  - java_programming
+tags: [CS2030S, java_programming]
 ---
 >[!summary] Used to make primitive types non-primitive, allowing them to be used in generics, and other uses.
 

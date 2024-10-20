@@ -1,8 +1,6 @@
 ---
 title: Quick-Find
-tags:
-  - algorithms
-  - CS2040S
+tags: [algorithms, CS2040S]
 ---
 
 | object       | .... |

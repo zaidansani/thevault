@@ -1,8 +1,6 @@
 ---
 title: Nested Class
-tags:
-  - CS2030S
-  - java_programming
+tags: [CS2030S, java_programming]
 ---
 > [!summary] A nested class is a class defined within a class or method.
 

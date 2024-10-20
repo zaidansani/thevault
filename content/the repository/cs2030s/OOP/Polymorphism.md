@@ -1,8 +1,6 @@
 ---
 title: Polymorphism
-tags:
-  - CS2030S
-  - object_oriented_programming
+tags: [CS2030S, object_oriented_programming]
 ---
 >[!summary] The ability of a method to take multiple forms.
 

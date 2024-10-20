@@ -1,8 +1,6 @@
 ---
-title: Prim's
-tags:
-  - CS2040S
-  - algorithms
+title: "Prim's"
+tags: [algorithms, CS2040S]
 ---
 # Naive (Non-PQ) Implementation
 

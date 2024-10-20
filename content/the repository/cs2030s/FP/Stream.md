@@ -1,9 +1,6 @@
 ---
 title: Stream
-tags:
-  - functional_programming
-  - CS2030S
-  - java_programming
+tags: [CS2030S, functional_programming, java_programming]
 ---
 > [!summary] A `Stream` is a [[Monads|monad]] that is lazy, in which it could have a infinite list of elements. 
 

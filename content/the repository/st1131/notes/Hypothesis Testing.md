@@ -1,8 +1,6 @@
 ---
 title: Hypothesis Testing
-tags:
-  - statistics
-  - ST1131
+tags: [ST1131, statistics]
 ---
 
 # Quick Links

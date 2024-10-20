@@ -1,8 +1,6 @@
 ---
 title: Design Patterns
-tags:
-  - CS2103/T
-  - software_engineering
+tags: [CS2103/T, software_engineering]
 ---
 > [!definition] Design pattern
 > Elegant reusable solution to a commonly recurring problem within a given context in software design.

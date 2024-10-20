@@ -1,9 +1,6 @@
 ---
 title: Logic Circuit
-tags:
-  - computer_architecture
-  - digital_logic
-  - CS2100
+tags: [computer_architecture, CS2100, digital_logic]
 ---
 # Logic Gates
 

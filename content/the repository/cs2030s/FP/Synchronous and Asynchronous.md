@@ -1,8 +1,6 @@
 ---
 title: Synchronous and Asynchronous
-tags:
-  - CS2030S
-  - java_programming
+tags: [CS2030S, java_programming]
 ---
 >[!summary]
 > - A synchronous program blocks until it returns, while an asynchronous program allows for the computation of other processors.

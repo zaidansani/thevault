@@ -1,9 +1,6 @@
 ---
 title: Abstract Class & Interfaces
-tags:
-  - java_programming
-  - object_oriented_programming
-  - CS2030S
+tags: [CS2030S, java_programming, object_oriented_programming]
 ---
 The main differences are as follows:
 

@@ -1,8 +1,6 @@
 ---
 title: Single Source Shortest Path
-tags:
-  - algorithms
-  - CS2040S
+tags: [algorithms, CS2040S]
 ---
 > [!summary] Finding the shortest path between a pair of vertices.
 

@@ -1,8 +1,6 @@
 ---
 title: Weighted Union
-tags:
-  - CS2040S
-  - algorithms
+tags: [algorithms, CS2040S]
 ---
 
 | object | .... |

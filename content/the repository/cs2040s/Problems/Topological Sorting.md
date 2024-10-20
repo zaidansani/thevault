@@ -1,8 +1,6 @@
 ---
 title: Topological Sorting
-tags:
-  - algorithms
-  - CS2040S
+tags: [algorithms, CS2040S]
 ---
 The topological sort is a linear ordering of vertices such that for every directed edge `u<->v`, vertex `u` comes before `v` in the ordering. The topological sort can only be done on **directed, acyclic graphs.**
 # Algorithms

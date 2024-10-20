@@ -1,8 +1,5 @@
 ---
-tags:
-  - computer_architecture
-  - memory
-  - CS2100
+tags: [computer_architecture, CS2100, memory]
 title: Memory
 ---
 > [!definition] Byte

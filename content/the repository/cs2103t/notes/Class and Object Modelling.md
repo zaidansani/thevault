@@ -1,8 +1,5 @@
 ---
-tags:
-  - software_engineering
-  - CS2103/T
-  - UML
+tags: [CS2103/T, software_engineering, UML]
 title: Class and Object Modelling
 ---
 - # Class Diagrams

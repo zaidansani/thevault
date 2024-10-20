@@ -1,9 +1,6 @@
 ---
 title: Control
-tags:
-  - computer_architecture
-  - CS2100
-  - MIPS
+tags: [computer_architecture, CS2100, MIPS]
 ---
 Control signals are generated based on the instruction to be executed. Thus, a combinational circuit to generate signals based on opcode and function codes.
 

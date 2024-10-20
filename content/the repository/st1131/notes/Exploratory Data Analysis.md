@@ -1,8 +1,6 @@
 ---
 title: Exploratory Data Analysis
-tags:
-  - statistics
-  - ST1131
+tags: [ST1131, statistics]
 ---
 > [!note] **Exploratory data analysis** refers to the analysis of the variables (descriptive statistics) in a study.
 

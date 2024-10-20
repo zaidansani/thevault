@@ -1,8 +1,6 @@
 ---
-title: Kruskal's
-tags:
-  - algorithms
-  - CS2040S
+title: "Kruskal's"
+tags: [algorithms, CS2040S]
 ---
 Utilises the [Red-Blue Rule](Red-Blue%20Rule.md) on the edges.
 

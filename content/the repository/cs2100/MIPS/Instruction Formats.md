@@ -1,8 +1,5 @@
 ---
-tags:
-  - computer_architecture
-  - MIPS
-  - CS2100
+tags: [computer_architecture, CS2100, MIPS]
 title: Instruction Formats
 ---
 > [!note] Fixed-length

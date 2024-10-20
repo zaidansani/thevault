@@ -1,7 +1,5 @@
 ---
-tags:
-  - computer_architecture
-  - CS2100
+tags: [computer_architecture, CS2100]
 title: Instruction Set Architecture
 ---
 # Design Philosophies

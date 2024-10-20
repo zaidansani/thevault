@@ -1,7 +1,5 @@
 ---
-tags:
-  - c_programming
-  - CS2100
+tags: [c_programming, CS2100]
 title: Number Systems
 ---
 # Data Representation

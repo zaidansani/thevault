@@ -1,7 +1,5 @@
 ---
-tags:
-  - linguistics
-  - EL1101E
+tags: [EL1101E, linguistics]
 title: Articulatory Phonetics
 ---
 Speech sounds can be split into 

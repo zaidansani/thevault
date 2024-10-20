@@ -1,8 +1,6 @@
 ---
 title: Documentation
-tags:
-  - CS2103/T
-  - software_engineering
+tags: [CS2103/T, software_engineering]
 ---
 Developer-to-developer documentation can be in two forms.
 

@@ -1,8 +1,6 @@
 ---
-title: Dijkstra's
-tags:
-  - CS2040S
-  - algorithms
+title: "Dijkstra's"
+tags: [algorithms, CS2040S]
 ---
 # Time Complexity
 

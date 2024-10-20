@@ -1,8 +1,6 @@
 ---
 title: All Pairs Shortest Paths
-tags:
-  - algorithms
-  - CS2040S
+tags: [algorithms, CS2040S]
 ---
 > [!summary] Find all the shortest paths between every pair of vertices in a graph.
 

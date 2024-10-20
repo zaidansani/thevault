@@ -1,8 +1,6 @@
 ---
 title: HeapSort
-tags:
-  - algorithms
-  - CS2040S
+tags: [algorithms, CS2040S]
 ---
 1. Heapify the unsorted list
 2. Run ``extractMax`` $n$ times on the heap, and put them in the right order.

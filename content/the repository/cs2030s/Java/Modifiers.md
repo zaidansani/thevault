@@ -1,8 +1,6 @@
 ---
 title: Modifiers
-tags:
-  - CS2030S
-  - java_programming
+tags: [CS2030S, java_programming]
 ---
 # `public` & `private`
 

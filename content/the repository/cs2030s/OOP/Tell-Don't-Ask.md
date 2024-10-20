@@ -1,8 +1,6 @@
 ---
-title: Tell-Don't-Ask
-tags:
-  - CS2030S
-  - object_oriented_programming
+title: "Tell-Don't-Ask"
+tags: [CS2030S, object_oriented_programming]
 ---
 > [!summary] The client should tell an object to do the computation, instead of retrieving its attributes and doing the computation themselves.
 

@@ -1,9 +1,6 @@
 ---
 title: Conceptual Class Diagrams
-tags:
-  - CS2103/T
-  - UML
-  - software_engineering
+tags: [CS2103/T, software_engineering, UML]
 ---
 > [!definition] Domain modeling
 > Modeling problem domain to model how things actually work in the real world.

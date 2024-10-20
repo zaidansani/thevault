@@ -1,8 +1,6 @@
 ---
 title: Pragmatics
-tags:
-  - linguistics
-  - EL1101E
+tags: [EL1101E, linguistics]
 ---
 > [!definition] Pragmatics
 > The study of meaning in context

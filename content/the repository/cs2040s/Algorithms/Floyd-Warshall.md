@@ -1,8 +1,6 @@
 ---
 title: Floyd-Warshall
-tags:
-  - CS2040S
-  - algorithms
+tags: [algorithms, CS2040S]
 ---
 [Dynamic Programming](../Paradigms/Dynamic%20Programming.md)
 # Subproblems

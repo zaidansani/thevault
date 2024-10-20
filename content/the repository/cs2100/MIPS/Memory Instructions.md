@@ -1,8 +1,5 @@
 ---
-tags:
-  - computer_architecture
-  - CS2100
-  - MIPS
+tags: [computer_architecture, CS2100, MIPS]
 title: Memory Instructions
 ---
 The memory can be viewed as a large single-dimension array of memory locations with an address.
