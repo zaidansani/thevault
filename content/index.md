@@ -9,15 +9,15 @@ publish: true
 > this is as notes are written in obsidian.
 > for the best reading experience, use light mode!
 
-![](the%20repository/media/zaidansani.jpg)
-
-hi, my name is **m. zaidan** (*pronounced* zäɪdän). nice to meet you
+hi, my name is **zaidan sani** (*pronounced* zäɪdän). nice to meet you
 
 i'm a
 - second year undergraduate student in the **national university of singapore** 
 - studying **computer science**
 	- with a (planned) minor in **data analytics**.
 - cybersecurity diploma graduate from **ngee ann polytechnic**
+
+[more about me](./aboutme.md)
 
 i plan on using this vault to
 - host notes on the stuff i learn in school
