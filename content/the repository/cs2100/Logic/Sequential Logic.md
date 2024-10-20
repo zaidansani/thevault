@@ -191,6 +191,80 @@ $m$ flip-flops and $n$ inputs $\rightarrow 2^{m+n}$ rows
 > 
 > This determines the next state generation - using the functions and the characteristic tables, the next states of flip-flops can be obtained.
 
+# Flip-flop Excitation Tables
 
+> [!note] Analysis
+> Starting from a circuit diagram, derive state table or state diagram
+> > [!note]  Characteristic tables
 
+> [!note] Design
+> Starting from a set of specifications (in the form of state equations, state table, state diagram), derive logic circuit.
+> 
+> > [!note] Excitation tables
 
+> [!note] Excitation tables
+> 
+> Input: Required transition from present state to next state
+> Output: Flip-flop inputs
+
+![excitation-tables](media/excitation-tables.svg)
+
+Design procedure:
+- Circuit specifications
+	- Description of circuit behaviour - state diagram/state table
+- Derive state table
+- Perform state reduction if necessary
+- Perform state assignment
+- Determine number of flip-flops and label them
+- Choose type of flip-flop to be used
+- Derive circuit excitation and output tables from the state table
+- Derive circuit output functions and flip-flop input functions
+- Draw the logic diagram
+
+> [!example] Worked example:
+
+![design-worked-example](media/design-worked-example.svg)
+> [!question] How many flip-flops are needed?
+> Since two bits are needed to represent each state, two flip-flops are needed.
+> 
+> The flip-flops can be allocated as `A` and `B`.
+
+> [!question] How many input variables are there?
+> The input variables are only `0` and `1`, meaning there is one input variable.
+> 
+> The input variable can be allocated `x`.
+
+| Present State $AB$ | $A^+B^+$ at $x=0$ | $A^+B^+$ at $x=1$ |
+| ------------------ | ----------------- | ----------------- |
+| `00`                 | `00`                | `01`                |
+| `01`                 | `10`                | `01`                |
+| `10`                 | `10`                | `11`                |
+| `11`                 | `11`                | `00`                |
+
+> [!note] Using _JK_ Flip-flop excitation table
+>
+> | $Q$ | $Q^+$ | $J$ | $K$ |
+> | --- | ----- | --- | --- |
+> | `0` | `0`   | `0` | `X` |
+> | `0` | `1`   | `1` | `X` |
+> | `1` | `0`   | `X` | `1` |
+> | `1` | `1`   | `X` | `0` |
+
+We can get the state table:
+
+| $AB$ | $x$ | $A^+B^+$ | $JA$ | $KA$ | $JB$ | $KB$ |
+| ---- | --- | -------- | ---- | ---- | ---- | ---- |
+| `00`   | `0`   | `00`       | `0`    | `X`    | `0`    | `X`    |
+| `00`   | `1`   | `01`       | `0`    | `X`    | `1`    | `X`    |
+| `01`   | `0`   | `10`       | `1`    | `X`    | `X`    | `1`    |
+| `01`   | `1`   | `01`       | `0`    | `X`    | `X`    | `0`    |
+| `10`   | `0`   | `10`       | `X`    | `0`    | `0`    | `X`    |
+| `10`   | `1`   | `11`       | `X`    | `0`    | `1`    | `X`    |
+| `11`   | `0`   | `11`       | `X`    | `0`    | `X`    | `0`    |
+| `11`   | `1`   | `00`       | `X`    | `1`    | `X`    | `1`    |
+
+![design-block-diagram](media/design-block-diagRam.svg)
+
+![design-input-flipflops-function](media/design-input-flipflops-function.svg)
+
+![design-logic-diagram](media/design-logic-diagram.svg)
