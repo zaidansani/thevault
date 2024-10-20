@@ -39,11 +39,11 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 ## y1s2 (ay 23/24, sem2)
 
-- **[[the repository/cs2030s/CS2030S|CS2030S]]** Programming Methodology II
-- **[[the repository/cs2040s/CS2040S|CS2040S]]** Data Structures & Algorithms
+- _**[[the repository/cs2030s/CS2030S|CS2030S]]**_ Programming Methodology II
+- _**[[the repository/cs2040s/CS2040S|CS2040S]]**_ Data Structures & Algorithms
 - **ES2660** Communication in the Information Age
-- **MA1522** Linear Algebra for Computing
-- **[[the repository/st1131/ST1131|ST1131]]** Introduction to Statistics and Statistical Computing
+- _**MA1522**_ Linear Algebra for Computing
+- _**[[the repository/st1131/ST1131|ST1131]]**_ Introduction to Statistics and Statistical Computing
 
 ## y2s1 (ay 24/25, sem1)
 
