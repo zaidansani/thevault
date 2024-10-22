@@ -36,6 +36,20 @@
     --callout-icon: var(--callout-icon-note);
   }
 
+  &[data-callout="theorem"] {
+    --color: #ffb957;
+    --border: #bd6c94;
+    --bg: #ffb95710;
+    --callout-icon: var(--callout-icon-note);
+  }
+
+  &[data-callout="definition"] {
+    --color: #E36BA7;
+    --border: #cf2d7e;
+    --bg: #E36BA710;
+    --callout-icon: var(--callout-icon-info);
+  }
+
   &[data-callout="abstract"] {
     --color: #00b0ff;
     --border: #00b0ff44;
