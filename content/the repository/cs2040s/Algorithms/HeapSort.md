@@ -1,6 +1,6 @@
 ---
-publish: true
 title: HeapSort
+tags: [algorithms, CS2040S]
 ---
 1. Heapify the unsorted list
 2. Run ``extractMax`` $n$ times on the heap, and put them in the right order.
@@ -20,5 +20,5 @@ $$ O(nlogn)$$
 $$ O(n) $$
 
 ![[diagrams/heapify.svg]]
-%%[[diagrams/heapify.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/heapify|🖋 Edit in Excalidraw]]%%
 

@@ -1,5 +1,6 @@
 ---
 title: Project Planning
+tags: [CS2103/T, software_engineering]
 ---
 # Milestone
 > [!definition] Milestone

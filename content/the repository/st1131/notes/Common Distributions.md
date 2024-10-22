@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Common Distributions
+tags: [ST1131, statistics]
 ---
 
 # Binomial Distribution

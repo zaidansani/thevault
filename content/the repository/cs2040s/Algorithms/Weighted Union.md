@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Weighted Union
+tags: [algorithms, CS2040S]
 ---
 
 | object | .... |
@@ -21,7 +21,7 @@ $$ O(log(n))$$
 3. If highest parent of $p$ and $q$ are the same, objects are connected.
 
 ![[diagrams/weighted union find.svg]]
-%%[[diagrams/weighted union find.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/weighted union find|🖋 Edit in Excalidraw]]%%
 
 # ``union(p, q)``
 
@@ -35,7 +35,7 @@ $$ O(log(n)) $$
 	1. Change parent of highest parent of $p$ to highest parent of $q$.
 
 ![[diagrams/weighted union union.svg]]
-%%[[diagrams/weighted union union.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/weighted union union|🖋 Edit in Excalidraw]]%%
 # Augmentation (Path Compression)
 
 $$\alpha(m,n)$$
@@ -51,4 +51,4 @@ After finding the root of the tree (the highest parent), set parent of each trav
 2. From $p$, backtrack all the way to root of $p$ while changing the parent of all nodes to the root of $p$.
 
 ![[diagrams/path compression.svg]]
-%%[[diagrams/path compression.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/path compression|🖋 Edit in Excalidraw]]%%

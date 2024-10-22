@@ -1,6 +1,6 @@
 ---
-publish: true
 title: "Dijkstra's"
+tags: [algorithms, CS2040S]
 ---
 # Time Complexity
 

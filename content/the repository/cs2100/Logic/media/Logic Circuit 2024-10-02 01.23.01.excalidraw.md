@@ -1,7 +1,6 @@
 ---
 excalidraw-plugin: parsed
-tags:
-  - excalidraw
+tags: [excalidraw]
 title: Logic Circuit 2024-10-02 01.23.01.excalidraw
 ---
 

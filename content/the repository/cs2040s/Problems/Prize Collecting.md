@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Prize Collecting
+tags: [algorithms, CS2040S]
 ---
 > [!summary] Given a directed graph, find the maximum amount of "prize" (weight of edges) possible to be obtained.
 
@@ -22,4 +22,4 @@ $$
 max({P[w_{1,}k - 1] + weight(v,w_{1),}..... })
 $$
 ![[diagrams/prize collecting.excalidraw.svg]]
-%%[[diagrams/prize collecting.excalidraw.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/prize collecting.excalidraw|🖋 Edit in Excalidraw]]%%

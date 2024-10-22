@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Random Variables
+tags: [ST1131, statistics]
 ---
 
 

@@ -1,7 +1,5 @@
 ---
-tags:
-  - software_engineering
-  - git
+tags: [CS2103/T, git, software_engineering]
 title: Revision Control
 ---
 

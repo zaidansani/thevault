@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Concurrency and Parallelism
+tags: [CS2030S, functional_programming, java_programming]
 ---
 > [!summary] 
 > 

@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Stack and Heap Diagrams
+tags: [CS2030S]
 ---
 The **Stack and Heap Diagram** has three components:
 - the **Stack** contains the stack of function calls

@@ -1,6 +1,5 @@
 ---
-tags:
-  - linguistics
+tags: [EL1101E, linguistics]
 title: Introduction
 ---
 >[!info] Scope of this mod

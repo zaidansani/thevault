@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Modifiers
+tags: [CS2030S, java_programming]
 ---
 # `public` & `private`
 

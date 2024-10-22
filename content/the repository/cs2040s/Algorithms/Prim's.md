@@ -1,6 +1,6 @@
 ---
-publish: true
 title: "Prim's"
+tags: [algorithms, CS2040S]
 ---
 # Naive (Non-PQ) Implementation
 
@@ -28,7 +28,7 @@ $$
 O(Vlog(V) + Elog(V)) =  O((V + E)log(V)) = O(Elog(V))
 $$
 ![[diagrams/prim.svg]]
-%%[[diagrams/prim.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/prim|🖋 Edit in Excalidraw]]%%
 
 # Proof Of Correctness
 

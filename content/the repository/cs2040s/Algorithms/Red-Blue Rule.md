@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Red-Blue Rule
+tags: [algorithms, CS2040S]
 ---
 
 | Rule |                                                                                 |

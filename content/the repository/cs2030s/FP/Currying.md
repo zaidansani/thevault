@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Currying
+tags: [CS2030S, functional_programming, java_programming]
 ---
 > [!summary] The conversion of multi-variable functions into multiple chained unary functions.
 

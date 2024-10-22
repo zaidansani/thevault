@@ -1,6 +1,6 @@
 ---
-publish: true
 title: LSP
+tags: [CS2030S, object_oriented_programming]
 ---
 >[!summary] 
 >Let $\phi(x)$ be a property provable of objects $x$ of type $T$.

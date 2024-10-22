@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Pure Functions
+tags: [CS2030S, functional_programming, java_programming]
 ---
 >[!summary] A function that does not have side effects.
 

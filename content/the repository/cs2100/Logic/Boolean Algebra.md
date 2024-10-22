@@ -1,5 +1,6 @@
 ---
 title: Boolean Algebra
+tags: [computer_architecture, CS2100, digital_logic]
 ---
 # Digital Circuits
 

@@ -1,6 +1,7 @@
 ---
-publish: true
-title: Midterms Cheatsheet
+title: ST1131 cheatsheet
+tags:
+  - ST1131
 ---
 
 💤 Midterm cheatsheet, compiled by *m.zaidan*

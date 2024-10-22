@@ -1,6 +1,5 @@
 ---
-tags:
-  - statistics
+tags: [ST2334, statistics]
 title: Basic Concepts of Probability
 ---
 # Concepts and Definition

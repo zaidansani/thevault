@@ -1,7 +1,5 @@
 ---
-tags:
-  - software_engineering
-  - java_programming
+tags: [CS2103/T, java_programming, software_engineering]
 title: Logging
 ---
 > [!definition] Logging

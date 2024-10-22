@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Single Source Shortest Path
+tags: [algorithms, CS2040S]
 ---
 > [!summary] Finding the shortest path between a pair of vertices.
 
@@ -20,5 +20,5 @@ This algorithm
 This works for DAGs because of the property that at vertex `v`, all the **shortest paths to all its parents** have been found. 
 
 ![[diagrams/dag sssp.svg]]
-%%[[diagrams/dag sssp.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/dag sssp|🖋 Edit in Excalidraw]]%%
 

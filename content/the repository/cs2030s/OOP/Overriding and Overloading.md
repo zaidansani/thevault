@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Overriding and Overloading
+tags: [CS2030S, object_oriented_programming]
 ---
 >[!summary] Overriding is when a method with the same method descriptor as a method in the parent class is implemented in the subclass. Overloading is when methods with the same method name, but different method signature is implemented in the same class.
 

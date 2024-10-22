@@ -3,6 +3,7 @@
 excalidraw-plugin: parsed
 tags: [excalidraw]
 
+title: path compression
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

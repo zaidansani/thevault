@@ -1,15 +1,15 @@
 ---
-publish: true
 title: Linear Regression
+tags: [ST1131, statistics]
 ---
 
 > [!summary]
-> - [ ]  test for significance of regressor, overall model
-> - [ ]  fitted regression equation
-> - [ ]  check assumptions using residual plots
-> - [ ]  identify outliers and influential points
-> - [ ]  interpret coefficients, R-squared
-> - [ ]  compare fit of models for same response using adjusted R-squared
+> - test for significance of regressor, overall model
+> - fitted regression equation
+> - check assumptions using residual plots
+> - identify outliers and influential points
+> - interpret coefficients, R-squared
+> - compare fit of models for same response using adjusted R-squared
 > 
 
 ---
@@ -49,7 +49,7 @@ Note: assumptions can only be checked **after** model is fitted.
 ## Understanding R Output
 
 ![[media/linear regression r output.svg]]
-%%[[media/linear regression r output.md|🖋 Edit in Excalidraw]]%%
+%%[[media/linear regression r output|🖋 Edit in Excalidraw]]%%
 
 Interpreting this:
 $$
@@ -102,7 +102,7 @@ This is called the **intercept** model.
 ### Scatterplot
 
 ![[media/linear regression scatterplots.svg]]
-%%[[media/linear regression scatterplots.md|🖋 Edit in Excalidraw]]%%
+%%[[media/linear regression scatterplots|🖋 Edit in Excalidraw]]%%
 
 If **linearity violated**
 - add higher order terms $X^2$

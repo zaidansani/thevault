@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Optional
+tags: [CS2030S, functional_programming, java_programming]
 ---
 >[!summary] A [[Monads|monad]] that allows for a class to hold a non-existing value without using the `null` value, which may be valid.
 

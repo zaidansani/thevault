@@ -1,6 +1,5 @@
 ---
-tags:
-  - software_engineering
+tags: [CS2103/T, software_engineering, UML]
 title: Sequence Diagrams
 ---
 > [!info] Sequence diagrams

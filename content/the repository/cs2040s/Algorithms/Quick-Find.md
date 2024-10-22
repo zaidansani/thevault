@@ -1,6 +1,6 @@
 ---
-publish: true
 title: Quick-Find
+tags: [algorithms, CS2040S]
 ---
 
 | object       | .... |

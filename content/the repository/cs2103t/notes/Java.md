@@ -1,7 +1,5 @@
 ---
-tags:
-  - java_programming
-  - software_engineering
+tags: [CS2103/T, java_programming, software_engineering]
 title: Java
 ---
 # JavaDoc
