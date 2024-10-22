@@ -360,7 +360,7 @@ $$
 $$
 Then, we get the statistic:
 $$
-T = \frac{\bar{D}-\mu_{D}}{{\frac{S_D}{\sqrt{n}}}}
+T = \frac{\bar{D}-\mu_{D}}{{\frac{S_{D}}{\sqrt{n}}}}
 $$
 
 Then, using the CLT:
