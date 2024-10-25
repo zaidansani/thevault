@@ -269,3 +269,8 @@ We can get the state table:
 ![design-input-flipflops-function](media/design-input-flipflops-function.svg)
 
 ![design-logic-diagram](media/design-logic-diagram.svg)
+# Sink State
+
+> [!definition] Sink state
+> A state that never moved out of itself to other states
+
