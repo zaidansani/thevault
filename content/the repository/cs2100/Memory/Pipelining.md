@@ -161,7 +161,9 @@ where $T_{k}$ is the time for operation in stage $k$, and $T_{d}$ refers to the 
 Execution time:
 $$
 Time_{pipeline}=(I + N - 1) \times CT_{pipeline}
-$$where $(I + N - 1)$ refers to the cycles needed for $I$ instructions.
+$$
+where $(I + N - 1)$ refers to the cycles needed for $I$ instructions.
+
 ## Ideal speedup
 
 > [!note] Assumptions for ideal case
