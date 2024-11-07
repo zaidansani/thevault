@@ -233,3 +233,25 @@ Higher end static analyzers can perform more complex analysis,
 > 2. You are not allowed to write any more of a unit test than is sufficient to fail, and compilation failures are failures
 > 3. You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
 
+# Other techniques
+
+## Validation + Verification
+
+> [!note] Validation
+> Correctness of requirements
+
+> [!note] Verification
+> Correctness of implementation of requirements
+
+## Formal Verification
+
+> [!note] Formal verification
+> Use of mathematical techniques
+
+> [!success] Advantages
+> Formal verification can be used to prove absence of erros
+
+> [!failure] Disadvantages
+> - Only proves compliance with specification, not actual utility
+> - Expensive technique to administer (knowledge, specialised notations)
+

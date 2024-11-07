@@ -65,3 +65,23 @@ Typically, three values around the boundary should be tested:
 1. one value from boundary
 2. one value from just below
 3. one value from just above
+# Test Input Combinations
+
+> [!note] Motivation
+> An SUT can take multiple inputs. However, testing all possible combinations is effective but not efficient.
+
+## Basic
+
+Given a set of inputs for testing:
+- All combinations (generate test cases for each unique combination)
+- All pairs (for any given pair of inputs, all combinations between them are tested)
+- At least once (include each test input at least once)
+- Random
+
+## Heuristics
+
+> [!note] Each valid input must appear at least once in a positive test case
+> Valid test inputs should appear at least once to check for bugs given those test inputs.
+
+> [!note] Test invalid inputs individually before combining them
+> To verify if the SUT is handling a certain invalid input correctly, it is better to test that invalid input without combining it.

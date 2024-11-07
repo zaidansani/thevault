@@ -245,6 +245,8 @@ There are two possible solutions:
 
 ![raw-data-hazards](media/raw-data-hazards.svg)
 
+### `WAR`: Write-After-Read
+
 > [!info] Does not cause pipeline hazards.
 > Only affects processor only when instructions are executed out of program order.
 ### `WAW`: Write-After-Write
@@ -281,7 +283,7 @@ To minimise the control hazard penalty:
 
 > [!remark] There are other branch prediction schemes. Only one is covered here.
 
-> [!note] Simple prediction: All brnaches are assumed to not be taken.
+> [!note] Simple prediction: All braNches are assumed to not be taken.
 
 After outcome of branch:
 - Not taken

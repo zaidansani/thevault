@@ -38,6 +38,6 @@ Degree of defensiveness depends on:
 
 # Design by Contract
 
-> [!definition] DbC]\
+> [!definition] DbC
 > Designing software that requires defining formal, precise, and verifiable interface specifications for software components.
 

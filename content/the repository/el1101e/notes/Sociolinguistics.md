@@ -3,7 +3,7 @@ tags:
   - linguistics
   - EL1101E
 ---
-# Speech community
+ oft# Speech community
 
 > [!definition] Speech community
 > Coherent group of people who share the same speech variety/varieties and (more or less) the same norms of language use
@@ -142,7 +142,7 @@ Generally, they have small vocabularies, and no native speakers.
 > [!definition] Creole
 > When a pidgin is passed on to the next generation and becomes the first language of a community
 
-A nativised contact language, that emerges from the restructuring of mutually unintelligble languages.
+A nativised contact language, that emerges from the restructuring of mutually unintelligible languages.
 
 The creole then becomes more complex than the pidgin due to
 - expansion of vocabulary

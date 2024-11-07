@@ -103,3 +103,49 @@ class Logic {
 > [!note] Anti-pattern
 > Segregate common and unique information into a class hierarchy, and hard-codes common data in the class. Problematic as if there is an addition of new data, it will have to update the source code.
 
+# MVC Pattern
+
+> [!note] Context
+> Most application support
+> - storage/retrieval of information
+> - displaying of information
+> - changing stored information
+
+> [!note] Problem
+> High coupling can result from interlinked nture of features
+
+> [!note] Solution
+> Decouple data, presentation, and control logic.
+> - View: Display data, interact with user, and pulls data from model
+> - Controller: Detects UI events such as mouse clicks/button pushes, and takes follow up action. Updates model/view
+> - Model: Stores and maintains data, updates view if necessary
+
+# Observer Pattern
+
+> [!note] Context
+> Object is interested in being notified when a change happens to another object.
+
+> [!note] Problem
+> Coupling could happen to the observed object.
+
+> [!note] Solution
+> Force communication through interface known to both parties.
+
+# Other patterns
+
+> [!remark] Optional
+
+Refer to Gang Of Four book
+- Creational design patterns
+- Structural design patterns
+- Behavioural design patterns
+
+# Usage
+
+> [!remark] Optional
+
+Use patterns as a high-level vocabulary to talk about design.
+- Patterns might be domain-specific
+- Should not be overused.
+
+Design principles differ by being more general, have wider applicability, with greater overlap.
