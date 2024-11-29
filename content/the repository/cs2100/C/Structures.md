@@ -38,4 +38,6 @@ To access the structure variable from the pointer of the structure, the syntax i
 
 > [!danger] Precedence of dot operator
 > Since the dot operator precedes `*`, `*player_ptr.name` results in `*(player_ptr.name)` instead of the intended `*(player_ptr).name`. Thus, `*player_ptr.name` should not be used.
-> 
+
+
+<div style="page-break-after: always;"></div>

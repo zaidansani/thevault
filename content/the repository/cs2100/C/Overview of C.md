@@ -173,3 +173,5 @@ for (initalization; condition; update) {
 
 **`break`** only breaks out of the inner-most loop containing the statement in a nested loop.
 Similarly, **`continue`** skips to the next iteration of the inner-most loop containing the statement in a nested loop
+
+<div style="page-break-after: always;"></div>

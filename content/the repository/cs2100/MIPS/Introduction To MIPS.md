@@ -179,3 +179,6 @@ This can also be used to implement the `NOT`.
 > 	`lui $t0, 0xAAAA`
 > 2. Use `ori` (or immediate) to set lower-order bits
 > 	`ori $t0, $t0, 0xF0F0`
+
+
+<div style="page-break-after: always;"></div>

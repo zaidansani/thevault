@@ -108,7 +108,7 @@ $$
 
 - $H_{1}: \mu \neq \mu_{0}$
 	- Rejection regions for test statistic: $t < -t_{n-1, \frac{\alpha}{2}}$ or $t > t_{n-1, \frac{\alpha}{2}}$
-	- $p-$value: $2P(T >|t|) = 2P(T<|-t|)$
+	- $p-$value: $2P(T >|t|) = 2P(T<-|t|)$
 - $H_{1}: \mu < \mu_0$
 	- Rejection regions for test statistic: $t < -t_{n-1, \alpha}$
 	- $p-$value: $P(T < -|t|)$

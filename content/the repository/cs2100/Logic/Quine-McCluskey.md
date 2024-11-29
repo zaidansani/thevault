@@ -19,3 +19,5 @@ Step 2: Draw reduced PI chart if minterms are not covered.
 - Remove EPIs and minterms covered from the chart
 - Find minimum number of remaining PIs to cover remaining minterms
 
+<div style="page-break-after: always;"></div>
+

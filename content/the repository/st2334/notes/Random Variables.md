@@ -267,10 +267,6 @@ The expectation of a random variable $X$ (denoted either $\mu_X$ or $E(X)$)is th
 > \mu_X = E(X) = \sum_{x_i \in R_X} x_if(x_i)
 > $$
 
-> [!definition# Expectation
-
-The expectation of a random variable $X$ (denoted either $\mu_X$ or $E(X)$)is the ==average value of it== if the corresponding experiment is repeated many times.
-
 > [!definition] Expectation: Discrete random variable
 > 
 > Let $X$ be a discrete random variable with $R_X = \{x_1, x_2, ...\}$ and a probability function $f(x)$. The expectation or mean is then defined:

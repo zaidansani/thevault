@@ -60,3 +60,4 @@ Do not use the indirection operator to access the value of a non-initialised poi
 - Pass addresses of two or more variables so function can pass back to caller new values for variables
 - Pass address of first element of array to a function so function can access all elements in array.
 
+<div style="page-break-after: always;"></div>

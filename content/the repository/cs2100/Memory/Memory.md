@@ -71,3 +71,5 @@ RAM
 
 ![memory-cell](media/memory-cell.svg)
 
+
+<div style="page-break-after: always;"></div>

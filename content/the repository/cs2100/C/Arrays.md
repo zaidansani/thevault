@@ -49,3 +49,5 @@ Alternatively, as an array is a pointer, the alternative syntax is as such:
 # Modification
 
 As an array is passed in through pointers, whether intentional, the function **can** modify the content of the array passed into it.
+
+<div style="page-break-after: always;"></div>

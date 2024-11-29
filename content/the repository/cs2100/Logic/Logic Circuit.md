@@ -9,6 +9,7 @@ tags: [computer_architecture, CS2100, digital_logic]
 %%[nand/nor gates](media/Pasted%20image%2020241002014153.png) %%
 %% [xor/xnor](media/Pasted%20image%2020241002014214.png) %%
 
+
 ![[media/Logic Circuit 2024-10-02 01.45.16.excalidraw.svg]]
 # Logic Circuits
 
@@ -54,3 +55,5 @@ Other gates may still be used due to
 > Programmable integrated circuit implements sum-of-products circuits (to allow multiple outputs)
 
 ![[media/Drawing 2024-10-02 02.28.36.excalidraw.svg]]
+
+<div style="page-break-after: always;"></div>

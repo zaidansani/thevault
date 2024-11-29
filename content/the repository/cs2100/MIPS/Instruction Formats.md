@@ -125,3 +125,5 @@ To get the next 4 bits, MIPS takes the 4 most significant bits from `PC + 4`, th
 Note that
 - branches use **PC-relative** addressing
 - jumps use **pseudo-direct** addressing
+
+<div style="page-break-after: always;"></div>

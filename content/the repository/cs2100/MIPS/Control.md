@@ -148,3 +148,5 @@ By allocating this execution steps one clock cycle instead, one cycle is shorter
 Breaks instructions into execution steps one per clock cycle.
 Allows different instructions to be in different execution steps simultaneously.
 
+
+<div style="page-break-after: always;"></div>

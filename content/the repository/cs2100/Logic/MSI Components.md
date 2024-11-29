@@ -111,7 +111,7 @@ Larger multiplexers can be constructed from smaller ones.
 
 ![largermultiplexers](media/largermultiplexers.svg)
 
-## Implementing Functions
+### Implementing Functions
 
 A $2^{n}$-to-1 multiplexer can implement a Boolean function of $n$ input variables,
 1. Express function in sum-of-minterms form
@@ -125,3 +125,5 @@ A $2^{n}$-to-1 multiplexer can implement a Boolean function of $n$ input variabl
 
 > [!example] if C is the chosen line, note the F output for C = `0,1` for each input line.
 
+
+<div style="page-break-after: always;"></div>

@@ -48,7 +48,7 @@ DeMorgan's law: For any $n$ events $A_{1},...,A_{n}$:
 - $\bigcup A_{i}= (\bigcap A'_i)'$
 	- $A \cup B = (A' \cap B')'$
 - $\bigcap A_{i}= (\bigcup A'_i)'$
-	- $A /cap B = (A' \cup B')'$
+	- $A \cap B = (A' \cup B')'$
 
 ---
 

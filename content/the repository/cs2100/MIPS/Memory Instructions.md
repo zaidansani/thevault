@@ -79,7 +79,7 @@ There are other variants of `lw, sw` for example - bytes (`lb, sb`). In this sce
 > Other memory instructions: `lh, sh` for halfword, `lwl, lwr, swl, swr` for loading word left/right, etc...
 
 
-
+<div style="page-break-after: always;"></div>
 
 
 

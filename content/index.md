@@ -6,7 +6,8 @@ publish: true
 > [!note] advisory:
 > some notes do not render as expected.
 >
-> this is as notes are written in obsidian.
+> this is as notes are written in obsidian, and some of them were originally created with dark mode in mind.
+> feel free to contact me to let me know which diagrams i have to fix! for now, you can just use dark mode for those pages.
 > for the best reading experience, use light mode!
 
 hi, my name is **zaidan sani** (*pronounced* zäɪdän). nice to meet you
@@ -47,11 +48,11 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 ## y2s1 (ay 24/25, sem1)
 
-- **[[the repository/cs2100/CS2100|CS2100]]** Computer Organisation
+- _**[[the repository/cs2100/CS2100|CS2100]]**_ Computer Organisation
 - **CS2101** Effective Communication for Computing Professionals
-- **[[the repository/cs2103t/CS2103T|CS2103T]]** Software Engineering
+- _**[[the repository/cs2103t/CS2103T|CS2103T]]**_ Software Engineering
 - **[[the repository/el1101e/EL1101E|EL1101E]]** The Nature of Language
-- **[[the repository/st2334/ST2334|ST2334]]** Probability and Statistics
+- _**[[the repository/st2334/ST2334|ST2334]]**_ Probability and Statistics
 
 # other stuff
 

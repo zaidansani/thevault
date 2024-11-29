@@ -144,3 +144,4 @@ Note that in certain scenarios, use of pointers can produce more efficient code.
 > > When pointers are used, all that has to be done is an `addi $t1, $t1, 4` where `$t1` holds the current address for the element.
 
 
+<div style="page-break-after: always;"></div>

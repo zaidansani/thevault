@@ -130,3 +130,6 @@ This changes the eventual SOP/POS expressions.
 
 ![[media/Simplification 2024-10-03 19.53.11.excalidraw.svg]]
 
+
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>

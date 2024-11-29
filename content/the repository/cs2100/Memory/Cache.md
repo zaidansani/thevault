@@ -204,3 +204,5 @@ Block number serves as tag in FA cache.
 - RR
 - LFU
 
+
+<div style="page-break-after: always;"></div>

@@ -35,3 +35,5 @@ Output:
 - `strncmp(s1, s2, n)` Compare first $n$ characters of `s1, s2`
 - `strcpy(s1, s2)` Copies string pointed to by `s2` into array pointed to by `s1`.
 - `strncpy(s1, s2, n)` Copies first $n$ characters pointed to by `s2` to `s1`.
+
+<div style="page-break-after: always;"></div>

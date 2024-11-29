@@ -86,3 +86,5 @@ Opcode = `0x0` $(000000_{2})$
 | Mnemonic | Operation       | Opcode | (binary)  |
 | -------- | --------------- | ------ | --------- |
 | `j`      | `PC = JumpAddr` | `0x02` | `00 0010` |
+
+<div style="page-break-after: always;"></div>

@@ -274,3 +274,5 @@ We can get the state table:
 > [!definition] Sink state
 > A state that never moved out of itself to other states
 
+
+<div style="page-break-after: always;"></div>

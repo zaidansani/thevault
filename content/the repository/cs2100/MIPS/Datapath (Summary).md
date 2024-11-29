@@ -103,3 +103,5 @@ f
 > [!example] R-format
 > ![](media/Pasted%20image%2020240913181509.png)
 
+
+<div style="page-break-after: always;"></div>

@@ -353,3 +353,5 @@ Exit:
 > [!example] 2-wide superscalar pipeline
 > Fetch and dispatch two instructions at a time, allowing for up to 2 instructions to complete per cycle.
 
+
+<div style="page-break-after: always;"></div>
