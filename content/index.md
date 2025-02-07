@@ -54,6 +54,16 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 - **[[the repository/el1101e/EL1101E|EL1101E]]** The Nature of Language
 - _**[[the repository/st2334/ST2334|ST2334]]**_ Probability and Statistics
 
+## y2s2 (ay 24/25, sem2)
+
+> [!warning] in progress
+
+- **[[the repository/cs2106/CS2106|CS2106]]** Introduction to Operating Systems
+- **[[the repository/cs2109s/CS2109s|CS2109S]]** Introduction to Artificial Intelligence
+- **CS3213** Foundations of Software Engineering
+- **GESS1025** Singapore: Imagining the Next 50 Years
+- **HSA1000** Asian Interconnections
+
 # other stuff
 
 - [[the repository/other/useful resources for nus students|useful resources for nus students]]

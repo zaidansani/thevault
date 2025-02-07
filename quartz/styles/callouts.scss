@@ -28,6 +28,9 @@
   --callout-icon-example: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg> ');
   --callout-icon-quote: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"></path><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"></path></svg>');
   --callout-icon-fold: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
+  --callout-icon-thumbs-up: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9V5a2 2 0 0 0-2-2H9a2 2 0 0 0-2 2v4H4v9h2v-4h3.5a1.5 1.5 0 0 0 1.5-1.5V9h3z"/><path d="M14 9V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v4h-6z"/></svg>');
+  --callout-icon-thumbs-down: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 15v4a2 2 0 0 0 2 2h3a2 2 0 0 0 2-2v-4h4V6h-2v4H7v5H3v9h2v-4h5a1.5 1.5 0 0 0 1.5-1.5V15h2z"/><path d="M10 15v4a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-4h6z"/></svg>');
+
 
   &[data-callout] {
     --color: #448aff;
@@ -48,6 +51,20 @@
     --border: #cf2d7e;
     --bg: #E36BA710;
     --callout-icon: var(--callout-icon-info);
+  }
+
+  &[data-callout="pros"] {
+    --color: #426b4a;
+    --border: #2e8f2d;
+    --bg: #6be39510;
+    --callout-icon: var(--callout-icon-thumbs-up);
+  }
+
+  &[data-callout="cons"] {
+    --color: #853530;
+    --border: #cf352d;
+    --bg: #e3796b10;
+    --callout-icon: var(--callout-icon-thumbs-down);
   }
 
   &[data-callout="abstract"] {
