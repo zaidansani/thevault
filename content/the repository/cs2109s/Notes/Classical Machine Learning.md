@@ -1,5 +1,5 @@
 ---
-title: Searching
+title: Classical Machine Learning
 tags:
   - CS2109S
   - artificial_intelligence
