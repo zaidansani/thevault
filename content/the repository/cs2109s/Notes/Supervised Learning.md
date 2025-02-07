@@ -6,7 +6,6 @@ tags:
   - machine_learning
   - supervised_learning
 ---
-
 Supervised learning learns to map **inputs** to **outputs** by minimising the difference between its predictions and the provided correct outputs/answers (**ground truth**). 
 - the learning phase is called the **training phase**
 - the dataset used is the **training set**
@@ -114,4 +113,5 @@ The $F1$ score is a combination of the two metrics:
 $$F1 = \frac{2}{\frac{1}{\mathcal{P}} + \frac{1}{\mathcal{R}}}$$
 # Types
 
-- [Decision Tree](Supervised%20Learning/Decision%20Tree.md)
+- [Decision Tree](Decision%20Tree.md)
+- 

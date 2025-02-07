@@ -12,7 +12,7 @@ tags:
 > - replace information of the first program with the information required to run program B
 
 Key topics:
-- [Process Abstraction](Process%20Management/Process%20Abstraction.md)
-- [Process Scheduling](Process%20Management/Process%20Scheduling.md)
-- [Inter-Process Communication & Synchronisation](Process%20Management/Inter-Process%20Communication%20&%20Synchronisation.md)
-- [Alternative to Processes](Process%20Management/Alternative%20to%20Processes.md)
+- [Process Abstraction](Process%20Abstraction.md)
+- [Process Scheduling](Process%20Scheduling.md)
+- [Inter-Process Communication & Synchronisation](Inter-Process%20Communication%20&%20Synchronisation.md)
+- [Alternative to Processes](Alternative%20to%20Processes.md)

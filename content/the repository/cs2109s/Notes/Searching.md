@@ -143,10 +143,10 @@ The algorithm can be analysed thorugh its completeness and optimality.
 
 # Algorithms
 
-- [Informed Search](Searching/Informed%20Search.md)
-- [Uninformed Search](Searching/Uninformed%20Search.md)
-- [Local Search](Searching/Local%20Search.md)
-- [Adversarial Search](Searching/Adversarial%20Search.md)
+- [Informed Search](Informed%20Search.md)
+- [Uninformed Search](Uninformed%20Search.md)
+- [Local Search](Local%20Search.md)
+- [Adversarial Search](Adversarial%20Search.md)
 ## Tree-Search
 
 ```
