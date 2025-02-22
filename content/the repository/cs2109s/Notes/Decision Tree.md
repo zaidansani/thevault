@@ -42,48 +42,60 @@ as the number of boolean functions refers to the number of distinct truth tables
 
 # Finding a Decision Tree
 
-> [!abstract] Recursively select the most informative attribute
+> [!abstract] Recursively select the most informative attribute.
 
 ## Informativeness
 
+> [!note] The following is adapted from the textbook. The slides use different notation, specifically $I(v_{1}, ....)$ for entropy.
+
 **Entropy** is a measure of randomness defined as
-$$
-I(P(v_{1}), ..., P(v_{k})) = -\sum\limits^{k}_{i=1}P(v_{i})log_{2}P(v_{i})
-$$ 
-
-(simply, if of one value):
 
 $$
-I(v) = Vlog_{2}V
+\begin{aligned}
+H(V) &= \sum\limits^{k}_{i=1}P(v_{k})log_{2}\frac{1}{{P(v_{k})}} \\
+&= -\sum\limits^{k}_{i=1}P(v_{k})log_{2}P(v_{k})
+\end{aligned}
+$$
+where every item $v_{i}\in V$ is a value possible. 
+
+> [!example] 
+> Fair coin flip = {heads, tails}
+> Four-sided die = {1, 2, 3, 4}
+
+
+We can define $B(q)$ as the entropy of a random Boolean variable true with probability $q$:
+
+$$
+B(q) = -(qlog_{2}q + (1-q)log_{2}(1-q))
 $$
 
 Thus, we want to keep the most Information Gain $IG$, where
 
 $$
-IG(A) = I\left(\frac{p}{p+n}, \frac{n}{p+n}\right)- remainder(A)
+IG(A) = H(output) - remainder(A)
 $$
 
 where the remainder refers to the entropy of the dataset without a specific feature. 
 
 > [!note] Information gain effectively refers to how much information is gained with a feature by checking the amount of information lost when removing the feature from the set. Mathematically, it is understood as the expected reduction in entropy.
 
-To find the **information gain** of an attribute:
-- find the entropy of the root node
+To work out what is the best decision tree, we can choose the tree branch based on the highest information gain.
+
+> [!important] How to calculate information gain: step by step
+
+Since information gain is the expected reduction in entropy, we can calculate the entropy of the dataset by first calculating the expected entropy remaining after testing the attribute.
 
 $$
-I(root)= I\left(\frac{p}{p+n}, \frac{n}{p+n}\right)= \frac{p}{p+n}log_{2}\left(\frac{p+n}{p}\right) +\frac{n}{p+n}log_{2}(\frac{p+n}{n})
+Remainder(A) = \sum\limits^{d}_{k=1} \frac{p_{k}+n_{k}}{p+n} B(\frac{p_{k}}{p_{k}+n_{k}})
 $$
 
-- find $remainder(A)$
+The information gain can then be calculated simply by
 
 $$
-remainder(A) = \sum\limits^{d}_{k=1} \frac{p_{k}+n_{k}}{{p+n}} I(\frac{p_{k}}{n_{k}+p_{k}})
-$$
-
-- take the difference
-
-$$
-I(root) - remainder(A)
+\begin{aligned}
+IG(A) &= H(output) - Remainder(A) \\
+&= B\left(\frac{p}{p+n}\right)- Remainder(A)
+\end{aligned}
 $$
 # Pruning
 

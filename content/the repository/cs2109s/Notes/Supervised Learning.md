@@ -114,4 +114,4 @@ $$F1 = \frac{2}{\frac{1}{\mathcal{P}} + \frac{1}{\mathcal{R}}}$$
 # Types
 
 - [Decision Tree](Decision%20Tree.md)
-- 
+- [Linear Regression](Linear%20Regression.md)

@@ -56,12 +56,16 @@ return failure
 > **Completeness**: Complete, if $b$ (referring to the number of nodes) is finite
 > **Optimality**: Optimal, if step cost is the same.
 
-The time complexity is exponential, with regards to the depth of the optimal solution, as the total number of nodes generated is $$
+The time complexity is exponential, with regards to the depth of the optimal solution, as the total number of nodes generated is 
+
+$$
 1 + b + b^{2}+ ... + b^{d} = O(b^{d})
 $$
+
 Similarly, since all the nodes remain in memory, the space complexity is similar.
 
 Breadth-first search **always** finds a solution that is cost-optimal: when it is generating nodes at $d$, every node generated at $d-1$ is already checked, so if there was a more optimal solution, it would have already been found.
+
 # Uniform-Cost-Search (UCS)
 
 > [!remark] Also known as Dijkstra.
@@ -96,11 +100,15 @@ return failure
 > **Optimality**: Optimal, if step cost is always positive
 
 Given the cost of the optimal solution $C^{*}$ and the lower bound on the cost of each action $\epsilon$, the time complexity and space complexity can be seen as:
+
 $$
 O(b^{1+\lfloor{C^*}{\epsilon}\rfloor})
-$$Note that is all the costs are equal, this reduces to BFS.
+$$
+
+Note that is all the costs are equal, this reduces to BFS.
 
 > [!note] Breadth-first-search is UCS with equal costs.
+
 # Depth-First-Search (DFS)
 
 For UCS, the frontier used is a **Stack**, which follows the **Last-In-First-Out** policy.
@@ -136,6 +144,7 @@ However,
 - for cyclic state spaces, it can get stuck in an infinite loop, meaning implementations might need to check nodes for cycles.
 
 DFS however only has a space complexity of $O(bm)$, making it much more efficient with regards to memory requirements.
+
 # Search with visited memory
 
 ```

@@ -36,25 +36,25 @@ The **criterias** for all processing environments are:
 - balance
 	- all parts of the computing system should be utilised
 
-There are two types of scheduling policies
+There are **two types of scheduling policies**
 - Non-preemptive
 	- A process stays scheduled until it blocks OR gives up the CPU voluntarily
 - Preemptive
-	- A process is given a fixed time quota to run
+	- **A process is given a fixed time quota to run**
 
 Thus, a process scheduler follows this step:
 
-1. Scheduler is triggered
-2. If context switch is needed, context of current running process is saved, and placed on blocked queue/ready queue
-3. Select a suitable process `P` to run
-4. Setup context for `P`
-5. Let process `P` run
+4. Scheduler is triggered
+5. If context switch is needed, context of current running process is saved, and placed on blocked queue/ready queue
+6. Select a suitable process `P` to run
+7. Setup context for `P`
+8. Let process `P` run
 # Scheduling for Batch Processing
 
-Criterias:
-- Turnaround time $finish - start$
-- Throughput: number of tasks finished per unit time
-- CPU utilisation: percentage of time when CPU is working on a task
+> [!important] Criterias:
+> - Turnaround time $finish - start$
+> - Throughput: number of tasks finished per unit time
+> - CPU utilisation: percentage of time when CPU is working on a task
 
 ![process_scheduling_batch_processing](media/process_scheduling_batch_processing.svg)
 ## First-Come-First-Served (FCFS)
@@ -67,9 +67,8 @@ Simple reordering can reduce average waiting time.
 
 > [!definition] Convoy effect
 > First task $A$ is CPU-bound and followed by a number of IO-Bound tasks $X$. 
-> When task $A$ is running, all tasks $X$ are waiting in the ready queue (IO idling)
-> When task $A$ is blocked on I/O, all tasks $X$ execute quickly and are blocked on I/O (CPU idling)
-
+> - When task $A$ is running, all tasks $X$ are waiting in the ready queue (IO idling)
+> - When task $A$ is blocked on I/O, all tasks $X$ execute quickly and are blocked on I/O (CPU idling)
 ## Shortest Job First (SJF)
 
 > [!abstract] Select task with smallest total CPU time
@@ -93,14 +92,14 @@ where
 
 > [!abstract] Variation of SJF, using the remaining time.
 
-SRF is preemptive, and selects the job with the shortest remaining (or expected) time.
+SRF is **preemptive**, and selects the job with the shortest remaining (or expected) time.
 
 A new job with shorter remaining time can preempt currently running job, which provides good service for short jobs even if they arrive later in the queue.
 # Scheduling for Interactive Systems
 
-**Criterias**:
-- Response time: time between request and response by system
-- Predictability: Variation in response time, lesser variation
+> [!important] Criterias
+> - Response time: time between request and response by system
+> - Predictability: Variation in response time, lesser variation
 
 > [!note] Preemptive scheduling algorithms are used to ensure good response time
 

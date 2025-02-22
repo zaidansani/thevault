@@ -85,6 +85,8 @@ $$
 $$
 
 is also consistent by definition.  Proof is trivial and similar to proving that average of all admissible heuristics is also admissible.
+
+![consistency](media/consistency.svg)
 ## Dominance
 
 If $h_{1}(n) \geq h_{2}(n)$ for all $n$, then $h_{1}$ dominates $h_{2}$,

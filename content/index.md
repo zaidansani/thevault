@@ -60,7 +60,7 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 - **[[the repository/cs2106/cs2106|CS2106]]** Introduction to Operating Systems
 - **[[the repository/cs2109s/cs2109S|CS2109S]]** Introduction to Artificial Intelligence
-- **CS3213** Foundations of Software Engineering
+- **[[the repository/cs3213/cs3213|CS3213]]** Foundations of Software Engineering
 - **GESS1025** Singapore: Imagining the Next 50 Years
 - **HSA1000** Asian Interconnections
 
