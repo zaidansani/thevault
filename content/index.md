@@ -66,7 +66,7 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 # other stuff
 
-- [[the repository/other/useful resources for nus students\|useful resources for nus students]]
+- [[administrative/useful resources for nus students\|useful resources for nus students]]
 
 # special thanks
 
