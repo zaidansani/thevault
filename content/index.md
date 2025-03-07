@@ -13,9 +13,7 @@
 hi, my name is **zaidan sani** (*pronounced* zäɪdän). nice to meet you
 
 i'm a
-- second year undergraduate student in the **national university of singapore** 
-- studying **computer science**
-	- with a (planned) minor in **data analytics**.
+- second year **computer science** undergraduate student in the **national university of singapore** 
 - cybersecurity diploma graduate from **ngee ann polytechnic**
 
 [more about me](./aboutme.md)
