@@ -22,6 +22,7 @@ Types of problems this would be useful for:
 
 > [!note] Any-time property
 > The longer the runtime, the better the solution found.
+
 # Types
 
 **Pertubative search**
@@ -31,6 +32,7 @@ Types of problems this would be useful for:
 **Constructive search**
 - search space: partial candidate solutions
 - search step: extension with one/more solution components
+
 # Problem Formulation
 
 - States

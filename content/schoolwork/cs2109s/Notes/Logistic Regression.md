@@ -2,6 +2,7 @@
 {"publish":true,"tags":["CS2109S","artificial_intelligence","machine_learning","supervised_learning"],"title":"Logistic Regression","PassFrontmatter":true}
 ---
 
+
 > [!motivation] 
 > Decision trees work well with discrete/categorical inputs with low options. However, it does not work well if there are a lot of continuous inputs.
 > 
@@ -42,6 +43,7 @@ The sigmoid function is differentiable, with derivative:
 $$
 \sigma'(x) = \sigma(x)(1-\sigma(x))
 $$
+
 # Measuring Fit
 
 For linear regression, the loss function $J_{MSE}(w)$ was used.
