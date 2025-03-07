@@ -3,4 +3,8 @@
 // put your custom CSS here!
 svg.excalidraw-svg {
   max-width: 100%;
+  height: auto;
+  text {
+    fill: rgb(30, 30, 30);
+  }
 }

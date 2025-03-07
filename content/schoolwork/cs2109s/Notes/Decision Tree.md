@@ -48,7 +48,7 @@ as the number of boolean functions refers to the number of distinct truth tables
 
 $$
 \begin{aligned}
-H(V) &= \sum\limits^{k}_{i=1}P(v_{k})log_{2}\frac{1}{P(v_{k})} \\
+H(V) &= \sum\limits^{k}_{i=1}P(v_{k})log_{2}\frac{1}{{P(v_{k})}} \\
 &= -\sum\limits^{k}_{i=1}P(v_{k})log_{2}P(v_{k})
 \end{aligned}
 $$
