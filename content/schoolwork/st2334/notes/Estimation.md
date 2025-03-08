@@ -96,7 +96,10 @@ $$
 > > [!definition] Degree of confidence/confidence level
 > > Quantifies the certainty mentioned above
 > 
-> $$ P(a < \mu < b) = 1 - \alpha $$
+> $$ 
+> P(a < \mu < b) = 1 - \alpha 
+> $$
+> 
 > $(a,b)$ is called the $(1, \alpha)$ confidence interval.
 
 ## Mean
@@ -111,6 +114,7 @@ P\left(\bar{X} - z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}} \leq \mu \leq \bar{X
 \bar X \pm z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}} = (\bar{X} - z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}}, \bar{X} + z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}})
 \end{aligned}
 $$
+
 The following is a $(1 - \alpha)$ confidence interval.
 
 ### Case II: $\sigma$ known, data any
@@ -125,6 +129,7 @@ P\left(\bar{X} - z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}} \leq \mu \leq \bar{X
 \bar X \pm z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}} = (\bar{X} - z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}}, \bar{X} + z_\frac{\alpha}{2} \frac{\sigma}{\sqrt{n}})
 \end{aligned}
 $$
+
 The following is a $(1 - \alpha)$ confidence interval.
 
 ### Case III: $\sigma$ unknown, data normal

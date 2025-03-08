@@ -192,28 +192,28 @@ Properties:
 > [!definition] $F-$Distribution
 > Suppose $U \sim \chi^2(m)$ and $V \sim \chi^2(n)$ are independent. Then the distribution of the random variable
 > $$
-> F = \frac{{\frac{U}{m}}}{{\frac{V}{n}}} 
+> F = \frac{\frac{U}{m}}{\frac{V}{n}} 
 > $$
 > is called a $F-$distribution with $(m,n)$ degrees of freedom.
 
 Properties:
 - The $F-$distribution with $(m,n)$ degrees of freedom is denoted by $F(m,n)$
 - If $X \sim F(m,n)$, then
+
 $$
-E(X) = \frac{n}{n-2} \text{ for } n > 2
-$$
-$$
-and
-$$
-$$
+E(X) = \frac{n}{n-2} \text{ for } n > 2, 
 V(X) = \frac{2n^{2}(m+n-2)}{m(n-2)^{2}(n-4)} \text{ for } n > 4
 $$
+
 - If $F \sim F(n,m)$, then $\frac{1}{F}\sim F(m,n)$. This follows immediately from the definition of the $F-$distribution.
 - Values of $F-$distribution can be found in the statistical tables or software. The values of interests are $F(m,n;\alpha)$ such that
+
 $$
 P(F > F(m,n;\alpha)) = \alpha, F \sim F(m,n)
 $$
+
 - It can be shown
+
 $$
 F(m,n;1-\alpha) = \frac{1}{F(n,m;\alpha)}
 $$
