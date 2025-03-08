@@ -35,7 +35,7 @@
 			- [Logistic Regression](Notes/Logistic%20Regression.md)
 		    - [Gradient Descent](Notes/Linear%20Regression.md#Gradient%20descent)
 		    - [Normal Equation](Notes/Linear%20Regression.md#Normal%20Equation)
-		- Regularization for Overfitting
+			- [Regularization](Notes/Regularization.md)
 		- **Support Vector Machines and Kernel Methods**:  
 		    - [Support Vector Machines](Notes/Support%20Vector%20Machines.md) (SVM)
 		    - Kernel Methods for non-linear data
