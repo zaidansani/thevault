@@ -23,6 +23,8 @@ i plan on using this vault to
 
 hoping this would be helpful for anyone who has the opportunity to chance onto it!
 
+![index](schoolwork/index.md)
+
 [more about me](./aboutme.md)
 # special thanks
 

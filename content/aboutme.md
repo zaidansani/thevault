@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"aboutme","PassFrontmatter":true}
+{"publish":true,"title":"About Me","PassFrontmatter":true}
 ---
 
 
