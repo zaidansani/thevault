@@ -37,5 +37,5 @@
 - **[[schoolwork/cs2106/index\|CS2106]]** Introduction to Operating Systems
 - **[[schoolwork/cs2109s/index\|CS2109S]]** Introduction to Artificial Intelligence
 - **[[schoolwork/cs3213/index\|CS3213]]** Foundations of Software Engineering
-- GESS1025 Singapore: Imagining the Next 50 Years
-- HSA1000 Asian Interconnections
+- **GESS1025** Singapore: Imagining the Next 50 Years
+- **HSA1000** Asian Interconnections
