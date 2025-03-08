@@ -31,27 +31,26 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 ## y1s1 (ay 23/24, sem 1)
 
-- **_CS1101S_** Programming Methodology I
-- _**CS1231S**_ Discrete Structures
-- **_MA1521_** Calculus for Computing
-- **GEC1039** International Relations of Asia
+- **CS1101S** Programming Methodology I ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/CS1101S))
+- **CS1231S** Discrete Structures ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/CS1231S))
+- **MA1521** Calculus for Computing ([helpsheets/notes](https://github.com/zaidansani/helpsheets/tree/main/MA1521))
+- **GEC1039** International Relations of Asia 
 - **IS2238** Economics of IT and AI
-
 ## y1s2 (ay 23/24, sem2)
 
-- _**[[schoolwork/cs2030s/index\|CS2030S]]**_ Programming Methodology II
-- _**[[schoolwork/cs2040s/index\|CS2040S]]**_ Data Structures & Algorithms
-- **ES2660** Communication in the Information Age
-- _**MA1522**_ Linear Algebra for Computing
-- _**[[schoolwork/st1131/index\|ST1131]]**_ Introduction to Statistics and Statistical Computing
+- **[[schoolwork/cs2030s/index\|CS2030S]]** Programming Methodology II ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/CS2030S))
+- **[[schoolwork/cs2040s/index\|CS2040S]]** Data Structures & Algorithms ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/CS2040S))
+- **ES2660** Communication in the Information Age 
+- **MA1522** Linear Algebra for Computing ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/MA1522))
+- **[[schoolwork/st1131/index\|ST1131]]** Introduction to Statistics and Statistical Computing ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/ST1131))
 
 ## y2s1 (ay 24/25, sem1)
 
-- _**[[schoolwork/cs2100/index\|CS2100]]**_ Computer Organisation
+- **[[schoolwork/cs2100/index\|CS2100]]** Computer Organisation ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/CS2100))
 - **CS2101** Effective Communication for Computing Professionals
-- _**[[schoolwork/cs2103t/index\|CS2103T]]**_ Software Engineering
+- **[[schoolwork/cs2103t/index\|CS2103T]]** Software Engineering ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/CS2103T))
 - **[[schoolwork/el1101e/index\|EL1101E]]** The Nature of Language
-- _**[[schoolwork/st2334/index\|ST2334]]**_ Probability and Statistics
+- **[[schoolwork/st2334/index\|ST2334]]** Probability and Statistics ([helpsheets](https://github.com/zaidansani/helpsheets/tree/main/ST2334))
 
 ## y2s2 (ay 24/25, sem2)
 
@@ -60,8 +59,8 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 - **[[schoolwork/cs2106/index\|CS2106]]** Introduction to Operating Systems
 - **[[schoolwork/cs2109s/index\|CS2109S]]** Introduction to Artificial Intelligence
 - **[[schoolwork/cs3213/index\|CS3213]]** Foundations of Software Engineering
-- GESS1025 Singapore: Imagining the Next 50 Years
-- HSA1000 Asian Interconnections
+- **GESS1025** Singapore: Imagining the Next 50 Years
+- **HSA1000** Asian Interconnections
 
 # special thanks
 
