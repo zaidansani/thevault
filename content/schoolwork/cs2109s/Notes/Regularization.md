@@ -40,7 +40,7 @@ $$
 The cost function with (L2) regularization is:
 
 $$
-J(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow]{\lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
+J(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow]{\color{black} \lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
 $$
 where the regularization parameter $\lambda$ is used, which avoids overfitting.
 
@@ -67,18 +67,18 @@ $$
 with the cost function:
 
 $$
-J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow]{\frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
+J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
 $$
 and the gradient descent update rule is then updated as such:
 
 $$
-w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow]{ - \upgamma \frac{\lambda}{m}w_{j}}
+w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow]{\color{black} - \upgamma \frac{\lambda}{m}w_{j}}
 $$
 
 ## Gradient Descent
 
 $$
-J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow]{\frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
+J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
 $$
 
 In this scenario, the optimisation goal is still $minJ(w)$. The gradient descent repeats this updates, as seen here:
@@ -94,7 +94,7 @@ The generalised update rule can be read as:
 $$
 \begin{aligned}
 w_{j} & \leftarrow w_{j} - \upgamma \frac{1}{m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} + \upgamma \frac{\lambda}{m}w_{j} \right] \\
-w_{j} & \leftarrow \bbox[yellow]{\left( 1 - \frac{\upgamma\lambda}{m}\right)} w_{n}  - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)}   \\
+w_{j} & \leftarrow \bbox[yellow]{\color{black} \left( 1 - \frac{\upgamma\lambda}{m}\right)} w_{n}  - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)}   \\
 \end{aligned}
 $$
 
@@ -105,7 +105,7 @@ Note that the parameters are slightly shrinking here, as $(1-\frac{\upgamma\lamb
 With the loss function,
 
 $$
-J(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow]{\lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
+J(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow]{\color{black} \lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
 $$
 
 we can represent the equation in matrix form:
@@ -129,7 +129,7 @@ $$
 \nabla J(w) & = \frac{1}{m}(X^{T}(Xw-y) +\lambda Rw) \\
 0 & =  X^{T}(Xw-y) + \lambda Rw \\
 (X^{T}y) & = (X^{T}X + \lambda R)w \\
-w & = (X^{T}X + \bbox[yellow]{\lambda R})^{-1}X^{T}y
+w & = (X^{T}X + \bbox[yellow]{\color{black} \lambda R})^{-1}X^{T}y
 \end{aligned}
 $$
 
@@ -151,11 +151,11 @@ $$
 with the cost function (given that $y^{(i)}\in\{0, 1\}$)
 
 $$
-J(w) = -\frac{1}{m}\sum\limits^{m}_{i=1}y^{(i)}logh_{w}(x^{(i)}) + (1-y^{(i)}) log(1-h_{w}(x^{(i)})) + \bbox[yellow]{\frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
+J(w) = -\frac{1}{m}\sum\limits^{m}_{i=1}y^{(i)}logh_{w}(x^{(i)}) + (1-y^{(i)}) log(1-h_{w}(x^{(i)})) + \bbox[yellow]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
 $$
 
 with gradient descent update rule looking like such:
 
 $$
-w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow]{- \upgamma \frac{\lambda}{m}w_{j}}
-- [ ] $$
+w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow]{\color{black} - \upgamma \frac{\lambda}{m}w_{j}}
+$$
