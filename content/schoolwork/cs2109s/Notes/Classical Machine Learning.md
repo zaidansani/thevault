@@ -9,7 +9,6 @@
 > - Kernels and Support Vector Machines (SVM)
 
 > [!tldr] Textbook, Chapter 19
-
 # Problem Space
 
 Classical ML is motivated by problems that are **intractable** to solve generally, meaning that there is no efficient solution for all cases. 
@@ -27,7 +26,6 @@ Thus, the problems focused are:
 - problems where function is difficult to specify
 - solutions are intractable to compute in general
 - typically episodic and sequential
-
 # Paradigm
 
 Rather than solving the problem explicitly through a search or applying rules, classical machine learning focuses on **learning a function** which could **identify patterns in the data** and makes decisions or provides solutions based on what it has learned.

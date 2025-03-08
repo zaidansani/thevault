@@ -2,7 +2,6 @@
 {"publish":true,"title":"Searching","tags":["CS2109S","artificial_intelligence","searching"],"PassFrontmatter":true}
 ---
 
-
 > [!definition] Search problem
 > A type of problem where the goal is to find a state (or a path to a state) from a set of possible states by exploring various possibilities.
 > > [!example] Path finding, puzzle solving
@@ -103,7 +102,6 @@ return failure
 ```
 
 The frontier can be any data structure - queue, priority queue, or stack. It defines the search, and is used to determine what nodes are traversed to.
-
 ## Search Terms
 
 > [!note] Problem vs search tree
@@ -122,7 +120,6 @@ The frontier can be any data structure - queue, priority queue, or stack. It def
 
 > [!definition] Search space
 > Subset of the state space that will be searched
-
 ## Evaluation
 
 Worst-case complexity is taken to evaluate the search algorithm.

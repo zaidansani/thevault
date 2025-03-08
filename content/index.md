@@ -13,7 +13,9 @@
 hi, my name is **zaidan sani** (*pronounced* zäɪdän). nice to meet you
 
 i'm a
-- second year **computer science** undergraduate student in the **national university of singapore** 
+- second year undergraduate student in the **national university of singapore** 
+- studying **computer science**
+	- with a (planned) minor in **data analytics**.
 - cybersecurity diploma graduate from **ngee ann polytechnic**
 
 [more about me](./aboutme.md)
@@ -64,7 +66,7 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 # other stuff
 
-- [[administrative/useful resources for nus students\|useful resources for nus students]]
+- [[the repository/other/useful resources for nus students\|useful resources for nus students]]
 
 # special thanks
 
