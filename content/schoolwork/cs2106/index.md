@@ -7,11 +7,11 @@
 
 **Topics:**
 - [Introduction to Operating Systems](Notes/Introduction%20to%20Operating%20Systems.md)
-- [Process Management](Notes/Process%20Management.md)
+- **Process Management**
 	- [Process Abstraction](Notes/Process%20Abstraction.md)
 	- [Process Scheduling](Notes/Process%20Scheduling.md)
 	- [Inter-Process Communication & Synchronisation](Notes/Inter-Process%20Communication%20&%20Synchronisation.md)
 	- [Alternative to Processes](Notes/Alternative%20to%20Processes.md)
 	- [Synchronisation](Notes/Synchronisation.md)
-- Memory Management
+- **Memory Management**
 	- [Memory Abstraction](Notes/Memory%20Abstraction.md)

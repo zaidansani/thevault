@@ -38,7 +38,7 @@
 			- [Regularization](Notes/Regularization.md)
 		- **Support Vector Machines and Kernel Methods**:  
 		    - [Support Vector Machines](Notes/Support%20Vector%20Machines.md) (SVM)
-		    - Kernel Methods for non-linear data
+		    - [Kernel Methods](Notes/Support%20Vector%20Machines.md#Kernel%20Methods)
 	- **Unsupervised Learning**:
 	    - K-Means Clustering
 	    - Principal Component Analysis (PCA)
