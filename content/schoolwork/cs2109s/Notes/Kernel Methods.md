@@ -130,7 +130,9 @@ In this scenario, $\phi_{RBF}(u)$ maps to infinite-dimensional features.
 
 Let 
 
-$$\upgamma = \frac{1}{2\sigma^{2}}$$
+$$
+\upgamma = \frac{1}{2\sigma^{2}}
+$$
 
 | ![](../../../schoolwork/cs2109s/Notes/media/rbf_3d_gamma1.png) | ![](../../../schoolwork/cs2109s/Notes/media/rbf_2d_gamma1.png) |
 | ---------------------------- | ---------------------------- |
@@ -138,6 +140,7 @@ $$\upgamma = \frac{1}{2\sigma^{2}}$$
 
 | ![](../../../schoolwork/cs2109s/Notes/media/rbf_3d_gamma2.png) | ![](../../../schoolwork/cs2109s/Notes/media/rbf_2d_gamma2.png) |
 | ------------------- | ---------------------------- |
+
 Note that the surface becomes smaller as $\upgamma$ increases, meaning that **as $\sigma$ increases, the spread increases**.
 
 When $\upgamma$ is small (and $\sigma$ is large):
@@ -149,6 +152,7 @@ When $\upgamma$ is large (and $\sigma$ is small):
 - kernel function decays quickly, meaning only close points have high similarity
 - complex, decision boundaries
 - good for capturing fine details, higher risk of **overfitting**
+- 
 ## Feature Transformation
 
 The most general case of a feature transformation is to take a $d-$dimensional feature vector and transform it into a $M-$dimensional feature vector:
@@ -179,6 +183,7 @@ Note that there is a dot product here, thus this can be generalised to:
 $$
 h_{a}^{\phi}(x) = \sum\limits^{n}_{j=1}a_{j}\bbox[yellow, 2pt]{\color{black} k_{\phi}(x^{j}, x)}
 $$
+
 ### Example
 
 Given a non-linear decision boundary, for example:
