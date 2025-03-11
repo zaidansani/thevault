@@ -108,6 +108,16 @@ $$
 K(u,v) =  \phi(u) \cdot \phi(v) = (u \cdot v)^{d}
 $$
 
+#### Hyperparameters
+
+| ![](../../../schoolwork/cs2109s/Notes/media/svm_polykernel_10.png) | ![](../../../schoolwork/cs2109s/Notes/media/svm_polykernel_2.png) |
+| -------------------------------- | ------------------------------- |
+
+The higher the degree $d$,
+- the more complex the model is
+- the higher the risk-of-overfitting
+- the better the capturing of non-linear intricate relationships.
+
 ### Gaussian Kernel (Radial Basis Function)
 
 $$
@@ -116,6 +126,29 @@ $$
 
 In this scenario, $\phi_{RBF}(u)$ maps to infinite-dimensional features.
 
+#### Hyperparameters
+
+Let 
+
+$$\upgamma = \frac{1}{2\sigma^{2}}$$
+
+| ![](../../../schoolwork/cs2109s/Notes/media/rbf_3d_gamma1.png) | ![](../../../schoolwork/cs2109s/Notes/media/rbf_2d_gamma1.png) |
+| ---------------------------- | ---------------------------- |
+
+
+| ![](../../../schoolwork/cs2109s/Notes/media/rbf_3d_gamma2.png) | ![](../../../schoolwork/cs2109s/Notes/media/rbf_2d_gamma2.png) |
+| ------------------- | ---------------------------- |
+Note that the surface becomes smaller as $\upgamma$ increases, meaning that **as $\sigma$ increases, the spread increases**.
+
+When $\upgamma$ is small (and $\sigma$ is large):
+- kernel function decays slowly, meaning points far from reference have high similarity
+- smooth, globally connected decision boundaries
+- good for simple patterns, may fail to capture fine details, higher risk of **underfitting**
+
+When $\upgamma$ is large (and $\sigma$ is small):
+- kernel function decays quickly, meaning only close points have high similarity
+- complex, decision boundaries
+- good for capturing fine details, higher risk of **overfitting**
 ## Feature Transformation
 
 The most general case of a feature transformation is to take a $d-$dimensional feature vector and transform it into a $M-$dimensional feature vector:
