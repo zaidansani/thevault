@@ -3,8 +3,6 @@
 ---
 
 Linear regression is used for the hypothesis space for linear functions of continuous-valued inputs.
-
-
 # Univariate linear regression
 
 The function with input $x$ and output $y$,

@@ -2,6 +2,12 @@
 {"publish":true,"title":"Regularization","tags":["CS2109S","machine_learning","supervised_learning","artificial_intelligence"],"PassFrontmatter":true}
 ---
 
+
+> [!abstract] Summary
+> - Problem of overfitting
+> - Linear regression with regularisation
+# General Idea
+
 When doing machine learning, the target is a good hypothesis - good being defined as a hypothesis that **directly minimises the weighted sum of empirical loss and the complexity of the hypothesis** - effectively:
 
 $$
@@ -10,6 +16,18 @@ Cost(h) & = EmpLoss(h) + \lambda Complexity(h) \\
 \hat{h^{*}} &= argmin_{h\in{H}} Cost(h)
 \end{aligned}
 $$
+
+A complex model fits all data points including the noise in the data, making it that the learned model **badly generalises** to unseen data as it does not capture underlying ground truth.
+
+## Different Views to Overfitting
+
+Considering a model $h(x) = ax^{3}+ ax$:
+- the higher the $a$ is, the more the model overfits
+- a solution to this would be to keep weights small during optimisation of the weights
+- put a cost on having large weights
+	- loss function (put in a cost of having large weights)
+
+## Solution
 
 > [!definition] Regularization
 > Explicitly penalising complex hypotheses: look for functions that are more regular.
@@ -40,13 +58,31 @@ $$
 The cost function with (L2) regularization is:
 
 $$
-J(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow]{\color{black} \lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
+J_{reg}(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow]{\color{black} \lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
 $$
-where the regularization parameter $\lambda$ is used, which avoids overfitting.
 
->[!note] L1 v L2 regularisation (not covered in slides)
-> L1 regularisation adds the sum of absolute values of weights $\lambda \sum\limits^{n}_{j=1}|w_j|$ while L2 regularisation adds the sum of squared weights $\lambda \sum\limits^{n}_{j=1}w^{2}_{j}$.
+## Penalty Function
 
+In this scenario, the added term:
+
+$$
+\lambda P(w) = \lambda \sum\limits^{n}_{j=1}w^{2}_{j}
+$$
+
+is the L2 penalty function $P(w)$, with the penalty strength (regularization parameter) $\lambda$, also known as ridge regression.
+
+> [!note] The L1 penalty function (lasso regression)
+> 
+> The L1 penalty function (sum of absolute weights).
+> $$
+> \sum\limits^{d}_{j=0}|w_{j}|
+> $$
+
+Thus, the new optimisation goal becomes
+
+$$
+\min\limits_{w}J_{reg}(w)
+$$
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 748.355224609375 253.06708402300848" width="748.355224609375" height="253.06708402300848" class="excalidraw-svg">
   <!-- svg-source:excalidraw -->
@@ -67,21 +103,21 @@ $$
 with the cost function:
 
 $$
-J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
+J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow, 2pt]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
 $$
 and the gradient descent update rule is then updated as such:
 
 $$
-w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow]{\color{black} - \upgamma \frac{\lambda}{m}w_{j}}
+w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow, 2pt]{\color{black} - \upgamma \frac{\lambda}{m}w_{j}}
 $$
 
 ## Gradient Descent
 
 $$
-J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
+J(w) = \frac{1}{2m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})-y^{(i)})^{2}+ \bbox[yellow, 2pt]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
 $$
 
-In this scenario, the optimisation goal is still $minJ(w)$. The gradient descent repeats this updates, as seen here:
+In this scenario, the optimisation goal is still $\min\limits_{w}J(w)$. The gradient descent repeats this updates, as seen here:
 
 $$
 \begin{aligned}
@@ -94,7 +130,7 @@ The generalised update rule can be read as:
 $$
 \begin{aligned}
 w_{j} & \leftarrow w_{j} - \upgamma \frac{1}{m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} + \upgamma \frac{\lambda}{m}w_{j} \right] \\
-w_{j} & \leftarrow \bbox[yellow]{\color{black} \left( 1 - \frac{\upgamma\lambda}{m}\right)} w_{n}  - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)}   \\
+w_{j} & \leftarrow \bbox[yellow, 2pt]{\color{black} \left( 1 - \frac{\upgamma\lambda}{m}\right)} w_{n}  - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)}   \\
 \end{aligned}
 $$
 
@@ -105,14 +141,14 @@ Note that the parameters are slightly shrinking here, as $(1-\frac{\upgamma\lamb
 With the loss function,
 
 $$
-J(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow]{\color{black} \lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
+J(w) = \frac{1}{2m} \left[ \sum\limits^{m}_{i=1}(h_{w}(x^{(i)}) - y^{(i)})^{2} + \bbox[yellow, 2pt]{\color{black} \lambda\sum\limits^{n}_{j=1}w_{j}^{2}} \right]
 $$
 
 we can represent the equation in matrix form:
 
 $$
 \begin{aligned}
-J(w) = \frac{1}{2m}((Xw-y)^{T}(Xw-y) + \lambda w^{T}Rw)
+J(w) = \frac{1}{2m}((Xw-y)^{T}(Xw-y) + \bbox[yellow, 2pt]{\lambda w^{T}Rw})
 \end{aligned}
 $$
 
@@ -129,7 +165,7 @@ $$
 \nabla J(w) & = \frac{1}{m}(X^{T}(Xw-y) +\lambda Rw) \\
 0 & =  X^{T}(Xw-y) + \lambda Rw \\
 (X^{T}y) & = (X^{T}X + \lambda R)w \\
-w & = (X^{T}X + \bbox[yellow]{\color{black} \lambda R})^{-1}X^{T}y
+w & = (X^{T}X + \bbox[yellow, 2pt]{\color{black} \lambda R})^{-1}X^{T}y
 \end{aligned}
 $$
 
@@ -140,6 +176,7 @@ Adding $\lambda R$ ensures $(X^{T}X + \lambda R)$ is always invertible provided 
 > - $\lambda R$ is symmetric and positive definite
 > - Adding a positive definite matrix to a semi-definite matrix results in a positive definite matirx, which is always invertible.
 
+Thus, normal equation with regularisation works no matter whether there is linear dependency among the features or insufficient number of observations.
 # Logistic Regression with Regularization
 
 The hypothesis of a logistic regression model is seen as such:
@@ -151,11 +188,11 @@ $$
 with the cost function (given that $y^{(i)}\in\{0, 1\}$)
 
 $$
-J(w) = -\frac{1}{m}\sum\limits^{m}_{i=1}y^{(i)}logh_{w}(x^{(i)}) + (1-y^{(i)}) log(1-h_{w}(x^{(i)})) + \bbox[yellow]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
+J(w) = -\frac{1}{m}\sum\limits^{m}_{i=1}y^{(i)}logh_{w}(x^{(i)}) + (1-y^{(i)}) log(1-h_{w}(x^{(i)})) + \bbox[yellow, 2pt]{\color{black} \frac{\lambda}{2m}\sum\limits^{n}_{j=1}w_{j}^{2}}
 $$
 
 with gradient descent update rule looking like such:
 
 $$
-w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow]{\color{black} - \upgamma \frac{\lambda}{m}w_{j}}
+w_{j} \leftarrow w_{j} - \upgamma \frac{1}{m}\sum\limits^{m}_{i=1}(h_{w}(x^{(i)})- y^{(i)})x_{j}^{(i)} \bbox[yellow,2pt]{\color{black} - \upgamma \frac{\lambda}{m}w_{j}}
 $$

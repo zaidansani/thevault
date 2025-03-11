@@ -2,7 +2,6 @@
 {"publish":true,"tags":["CS2109S","artificial_intelligence","machine_learning","supervised_learning"],"title":"Logistic Regression","PassFrontmatter":true}
 ---
 
-
 > [!motivation] 
 > Decision trees work well with discrete/categorical inputs with low options. However, it does not work well if there are a lot of continuous inputs.
 > 
