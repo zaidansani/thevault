@@ -144,7 +144,7 @@ $$
 Note that there is a dot product here, thus this can be generalised to:
 
 $$
-h_{a}^{\phi}(x) = \sum\limits^{n}_{j=1}a_{j}\bbox[yellow, 2pt]{k_{\phi}(x^{j}, x)}
+h_{a}^{\phi}(x) = \sum\limits^{n}_{j=1}a_{j}\bbox[yellow, 2pt]{\color{black} k_{\phi}(x^{j}, x)}
 $$
 ### Example
 
