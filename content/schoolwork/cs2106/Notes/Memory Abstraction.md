@@ -39,6 +39,9 @@ The general idea is that the program simply saw the physical memory, and directl
 > [!example] 
 > When executing instructions like `MOV REG1, 1000`, the computer moved the contents of physical memory location `1000` to `REG1`.
 
+> [!pros]
+> - Simple
+
 In this scenario, it is still possible to run multiple programs at the same time - by saving the entire content of memory to a disk file and then bring in and run the next program (swapping).
 
 Another solution would be to 
