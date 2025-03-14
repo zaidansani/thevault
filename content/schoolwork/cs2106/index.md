@@ -15,3 +15,4 @@
 	- [Synchronisation](Notes/Synchronisation.md)
 - **Memory Management**
 	- [Memory Abstraction](Notes/Memory%20Abstraction.md)
+	- [Disjoint Memory Schemes](Notes/Disjoint%20Memory%20Schemes.md)

@@ -152,7 +152,6 @@ When $\upgamma$ is large (and $\sigma$ is small):
 - kernel function decays quickly, meaning only close points have high similarity
 - complex, decision boundaries
 - good for capturing fine details, higher risk of **overfitting**
-- 
 ## Feature Transformation
 
 The most general case of a feature transformation is to take a $d-$dimensional feature vector and transform it into a $M-$dimensional feature vector:
