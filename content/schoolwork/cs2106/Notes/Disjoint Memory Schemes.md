@@ -3,7 +3,7 @@
 ---
 
 Previously, two assumptions:
-- each process occupies a contiguous memory region
+- each process occupies a contiguous memory region ❌
 - physical memory is large enough to contain one or more processes with complete memory space
 
 Assuming the first assumption is not made, we can use the **paging scheme**.

@@ -2,8 +2,6 @@
 {"publish":true,"title":"Memory Abstraction","tags":["memory","CS2106","operating_systems"],"PassFrontmatter":true}
 ---
 
-> [!warning] In progress
-
 # Hardware
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520.8332996042654 483.3528954483836" width="1520.8332996042654" height="483.3528954483836" class="excalidraw-svg">
