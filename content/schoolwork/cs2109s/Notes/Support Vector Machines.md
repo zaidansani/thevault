@@ -2,7 +2,7 @@
 {"publish":true,"title":"Support Vector Machines","tags":["machine_learning","CS2109S","supervised_learning","artificial_intelligence"],"PassFrontmatter":true}
 ---
 
-# General Idea
+`# General Idea
 
 SVMs retains three attractive properties:
 1. SVMs construct a **maximum margin separator** - a decision boundary with the largest possible distance to example points, helping to generalise well.

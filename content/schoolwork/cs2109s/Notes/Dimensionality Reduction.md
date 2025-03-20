@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Clustering","tags":["unsupervised_learning","machine_learning","artificial_intelligence","CS2109S"],"PassFrontmatter":true}
+{"publish":true,"title":"Dimensionality Reduction","tags":["unsupervised_learning","machine_learning","artificial_intelligence","CS2109S"],"PassFrontmatter":true}
 ---
 
 # General Context
@@ -345,7 +345,4 @@ $$
 # Principle Component Analysis
 
 > [!note] Capture components that maximise the statistical variations of the data.
-
-
-
 
