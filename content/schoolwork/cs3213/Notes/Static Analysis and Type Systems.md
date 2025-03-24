@@ -90,7 +90,7 @@ $$
 ### Free and Bound Variables
 
 
-> [!definition] $\alpha-$equivalence
+> [!definition] $\alpha-$ equivalence
 > Bound variable can be renamed, as it is a placeholder.
 > $$
 > \lambda x.(x+y) = \lambda z.(z+y)
@@ -128,7 +128,7 @@ These statements can be understood as:
 
 ## Semantics
 
-$\beta-$reduction:
+$\beta-$ reduction:
 
 $$
 (\lambda x.M) N \rightarrow M[N/x] (\beta)
@@ -259,7 +259,9 @@ Given the term
 
 $$
 (\lambda x.x \; x) (( \lambda y. y) (\lambda z. z))
-$$ $$
+$$ 
+
+$$
 \begin{aligned}
 & (\lambda x.x \; x) \bbox[yellow, 5pt]{\color{black}(( \lambda y. y) (\lambda z. z))} \\
 \rightarrow & \bbox[yellow, 5pt]{\color{black}(\lambda x.x \; x) (\lambda z. z)} \\
@@ -269,32 +271,20 @@ $$ $$
 $$
 
 > [!note] Applicative order may not be as efficient as normal order when argument is not used.
+
 ## Programming
 
 ### Encoding Boolean values/operator
 
 $$
-True \overset{def}{=} \lambda x. \lambda y . x
-$$
-
-$$
-False \overset{def}{=} \lambda x. \lambda y . y
-$$
-
-$$
-not \overset{def}{=} \lambda b. b \; False \; True
-$$
-
-$$
-and \overset{def}{=} \lambda b. b' \; b \; b' \; False
-$$
-
-$$
-or \overset{def}{=} \lambda b. b' \; b \; True \; b'
-$$
-
-$$
-\text {if b then M else N} \overset{def}{=} b \; M \; N
+\begin{aligned}
+True & \overset{def}{=} \lambda x. \lambda y . x \\
+False & \overset{def}{=} \lambda x. \lambda y . y \\
+not & \overset{def}{=} \lambda b. b \; False \; True \\
+and & \overset{def}{=} \lambda b. b' \; b \; b' \; False \\
+or & \overset{def}{=} \lambda b. b' \; b \; True \; b' \\
+\text {if b then M else N} & \overset{def}{=} b \; M \; N
+\end{aligned}
 $$
 
 ### Church numerals
@@ -321,6 +311,7 @@ Effectively, a pair is defined
 ```
 f -> x -> y -> f(x, y)
 ```
+
 $$
 \begin{aligned}
 \pi_{0} & \overset{def}{=} \lambda p.p(\lambda x. \lambda y. x) \\
