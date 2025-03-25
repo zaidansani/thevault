@@ -41,8 +41,8 @@ const config: QuartzConfig = {
           dark: "#5B46AF",
           secondary: "#C3465D",
           tertiary: "#119285",
-          highlight: "rgba(200,171,255,0.43)",
-          textHighlight: "rgba(200,171,255,0.43)",
+          highlight: "rgba(255,171,213,0.43)",
+          textHighlight: "rgba(255,171,213,0.43)",
         },
         darkMode: {
           light: "#020d26",
@@ -52,8 +52,8 @@ const config: QuartzConfig = {
           dark: "#988AD0",
           secondary: "#D78493",
           tertiary: "#7FF0E5",
-          highlight: "rgba(146,83,255,0.44)",
-          textHighlight: "rgba(146,83,255,0.44)",
+          highlight: "rgba(255,83,97,0.44)",
+          textHighlight: "rgba(255,83,97,0.44)",
         },
       },
     },
@@ -96,7 +96,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }
