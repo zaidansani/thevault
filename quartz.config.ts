@@ -28,8 +28,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Outfit",
-        body: "Outfit",
+        header: "DM Sans",
+        body: "DM Sans",
         code: "Atkinson Hyperlegible Mono",
       },
       colors: {

@@ -5,8 +5,9 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
 export default (() => {
-  const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
+  const Head: QuartzComponent = ({ cfg, fileData, externalResources, ctx }: QuartzComponentProps) => {
     const defaultTitle = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
     const title = "the vault | " + defaultTitle;
     const description =
@@ -21,7 +22,15 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/vaulticon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/welcometothevault.png`
+
+    const socialUrl = fileData.slug === "404"
+      ? url.toString()
+      : joinSegments(url.toString(), fileData.slug!)
+
+    const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
+      (e) => e.name === CustomOgImagesEmitterName
+    )
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/welcometothevault.png`
 
     return (
       <head>
