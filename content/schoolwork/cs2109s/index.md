@@ -46,8 +46,8 @@
 		    - PCA
 - **"Modern" Machine Learning**
 	- **[Neural Networks](Notes/Neural%20Networks.md)**:
-	    - Multi-Layer Perceptrons (MLP)
-	    - Convolutional Neural Networks (CNN)
-	    - Recurrent Neural Networks (RNN)
-	    - Attention Mechanisms
-	    - Transformers
+	    - [Perceptron](Notes/Neural%20Networks.md#Perceptron)
+	    - [Convolutional Neural Networks](Notes/Convolutional%20Neural%20Networks.md)
+	    - [Recurrent Neural Networks](Notes/Recurrent%20Neural%20Networks.md)
+	    - [Attention Neural Networks](Notes/Attention%20Neural%20Networks.md)
+	    - [Transformer](Notes/Attention%20Neural%20Networks.md#Transformer)

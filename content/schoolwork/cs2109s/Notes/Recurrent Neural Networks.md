@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Recurrent Neural Networks","PassFrontmatter":true}
+{"publish":true,"title":"Recurrent Neural Networks","tags":["CS2109S","artificial_intelligence","neural_networks"],"PassFrontmatter":true}
 ---
 
 # Motivation

@@ -19,4 +19,4 @@
 	- [Virtual Memory Management](Notes/Virtual%20Memory%20Management.md)
 - **File System**
 	- [File System](Notes/File%20System.md)
-	- 
+	- [Directory](Notes/Directory.md)

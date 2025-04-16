@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Attention Neural Networks","PassFrontmatter":true}
+{"publish":true,"title":"Attention Neural Networks","tags":["CS2109S","neural_networks","artificial_intelligence"],"PassFrontmatter":true}
 ---
 
 # Many-to-Many
