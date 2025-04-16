@@ -346,3 +346,22 @@ $$
 
 > [!note] Capture components that maximise the statistical variations of the data.
 
+Image compression can be done using a PCA model. 
+
+Given a $512 \times 512$ image, the image can be represented as a `(512, 512, 3)` array, which can be reshaped into 2 dimensions as `(512, 1536)`.
+
+Using PCA, we can determine the amount of features to keep, $n$, and thus we can use SVD to obtain these number of features, so the compressed image $z$ will be of shape `(n, 1536)`, and we have the reconstruction matrix to reconstruct $u_{reduce}$ which would be of shape `(512, n)`. We would also need to normalise the features, which we do by storing the mean $\mu$ during reconstruction for scaling during the PCA.
+
+Space saved:
+
+$$
+\text{Space saved} = \frac{u_{reduce} \times z \times \mu}{x}
+$$
+
+where $x = r \times c$, $u_{reduce} = r \times newdims, z = newdims \times c$
+
+Drawbacks:
+- lossy compression
+- large $K$
+- storage of $U_{reduce}$
+	- $U_{reduce}$ can be kept

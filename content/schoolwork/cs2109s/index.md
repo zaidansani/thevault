@@ -39,11 +39,13 @@
 		- **Support Vector Machines and Kernel Methods**:  
 		    - [Support Vector Machines](Notes/Support%20Vector%20Machines.md)
 		    - [Kernel Methods](Notes/Kernel%20Methods.md)
-	- **Unsupervised Learning**:
-	    - K-Means Clustering
-	    - Principal Component Analysis (PCA)
+	- **[Unsupervised Learning](Notes/Unsupervised%20Learning.md)**:
+	    - [Clustering](Notes/Clustering.md)
+		    - K-Means
+	    - [Dimensionality Reduction](Notes/Dimensionality%20Reduction.md)
+		    - PCA
 - **"Modern" Machine Learning**
-	- **Neural Networks**:
+	- **[Neural Networks](Notes/Neural%20Networks.md)**:
 	    - Multi-Layer Perceptrons (MLP)
 	    - Convolutional Neural Networks (CNN)
 	    - Recurrent Neural Networks (RNN)

@@ -422,3 +422,12 @@ STLC is **not complete**. The type system may reject terms that do not go wrong.
 > [!theorem] Well-typed terms in STLC always terminate
 > Strong normalisation theorem.
 
+
+
+$$
+\begin{aligned}
+(\lambda x. \lambda y. ( \lambda z. y)(x x))((\lambda w. w w) (\lambda a. a a)) \\
+\lambda y. ( \lambda z. y)((\lambda w. w w) (\lambda a. a a) (\lambda w. w w) (\lambda a. a a))) \\
+\lambda y.(\lambda z.y)
+\end{aligned}
+$$
