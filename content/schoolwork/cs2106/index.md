@@ -20,3 +20,4 @@
 - **File System**
 	- [File System](Notes/File%20System.md)
 	- [Directory](Notes/Directory.md)
+	- [File System Case Studies](Notes/File%20System%20Case%20Studies.md)
