@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Currying","tags":["CS2030S","functional_programming","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Currying","tags":["CS2030S","functional_programming","java_programming"],"cssclasses":""}
 ---
 
 > [!summary] The conversion of multi-variable functions into multiple chained unary functions.

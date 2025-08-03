@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Process Scheduling","tags":["CS2106","operating_systems","process_management"],"PassFrontmatter":true}
+{"publish":true,"title":"Process Scheduling","tags":["CS2106","operating_systems","process_management"],"cssclasses":""}
 ---
 
 > [!definition] Concurrent processes

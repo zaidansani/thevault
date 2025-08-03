@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2109S","artificial_intelligence","searching"],"title":"Local Search","PassFrontmatter":true}
+{"publish":true,"title":"Local Search","tags":["CS2109S","artificial_intelligence","searching"],"cssclasses":""}
 ---
 
 

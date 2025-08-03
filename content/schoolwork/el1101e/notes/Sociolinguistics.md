@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["linguistics","EL1101E"],"title":"Sociolinguistics","PassFrontmatter":true}
+{"publish":true,"title":"Sociolinguistics","tags":["linguistics","EL1101E"],"cssclasses":""}
 ---
 
  oft# Speech community

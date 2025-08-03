@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Stack and Heap Diagrams","tags":["CS2030S"],"PassFrontmatter":true}
+{"publish":true,"title":"Stack and Heap Diagrams","tags":["CS2030S"],"cssclasses":""}
 ---
 
 The **Stack and Heap Diagram** has three components:
@@ -37,7 +37,7 @@ If we initialise a `Lazy` object with a `Producer`, we can see in the heap
 Lazy<Integer> a = Lazy.of(() -> 3);
 ```
 
-![diagrams/anonymousclass.png|anonymousclass|100%](../../../schoolwork/cs2030s/other/diagrams/anonymousclass.png)
+![[../../../schoolwork/cs2030s/other/diagrams/anonymousclass.png|anonymousclass|100%]]
 
 Note that the `map` function can be implemented like such:
 ```Java
@@ -54,7 +54,7 @@ Lazy<Integer> b = a.map(x -> x + 1);
 ```
 
 
-![diagrams/anonymousclass2.png|100%](../../../schoolwork/cs2030s/other/diagrams/anonymousclass2.png)
+![[../../../schoolwork/cs2030s/other/diagrams/anonymousclass2.png|100%]]
 
 Two new anonymous instances are in the heap:
 - the `Transformer` passed into the `Lazy::map` function as argument

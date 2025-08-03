@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering"],"title":"Code Quality","PassFrontmatter":true}
+{"publish":true,"title":"Code Quality","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 > [!quote] Martin Golding

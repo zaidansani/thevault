@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS3213","software_engineering","software_testing"],"title":"Static Analysis and Type Systems","PassFrontmatter":true}
+{"publish":true,"title":"Static Analysis and Type Systems","tags":["CS3213","software_engineering","software_testing"],"cssclasses":""}
 ---
 
 # Static Analysis

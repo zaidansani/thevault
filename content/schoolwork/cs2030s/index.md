@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CS2030S","tags":["CS2030S"],"PassFrontmatter":true}
+{"publish":true,"title":"CS2030S","tags":["CS2030S"],"cssclasses":""}
 ---
 
 [NUSmods](https://nusmods.com/courses/CS2030S)

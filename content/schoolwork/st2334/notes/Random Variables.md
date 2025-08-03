@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["ST2334","statistics"],"title":"Random Variables","PassFrontmatter":true}
+{"publish":true,"title":"Random Variables","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 > [!info] Random variable

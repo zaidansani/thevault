@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"All Pairs Shortest Paths","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"All Pairs Shortest Paths","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 > [!summary] Find all the shortest paths between every pair of vertices in a graph.

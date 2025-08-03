@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hash Table","tags":["CS2040S","data_structures"],"PassFrontmatter":true}
+{"publish":true,"title":"Hash Table","tags":["CS2040S","data_structures"],"cssclasses":""}
 ---
 
 > [!summary] A hash table utilises a hash function to assign an index to a value, allowing for constant search time.
@@ -39,7 +39,7 @@ This approach stores a list of elements in one bucket, instead of one.
 1. The hash of the key is computed
 2. Search through the linked list to find the key.
 
-> [!info] Given a hash function that satisfies the [[schoolwork/cs2040s/Structures/Hash Table#Simple Uniform Hashing Assumption\|#Simple Uniform Hashing Assumption]], the expected maximum chain length is $O(logn)$ or $O(loglogn)$.
+> [!info] Given a hash function that satisfies the [[schoolwork/cs2040s/Structures/Hash Table#Simple Uniform Hashing Assumption]], the expected maximum chain length is $O(logn)$ or $O(loglogn)$.
 ## Open-Addressing
 
 For this approach, instead of storing a list of elements in one bucket, the hash function is redefined such that the key is mapped to a permutation, and goes through the permutation until it is able to find an empty bucket.

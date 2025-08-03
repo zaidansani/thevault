@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Concurrency and Parallelism","tags":["CS2030S","functional_programming","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Concurrency and Parallelism","tags":["CS2030S","functional_programming","java_programming"],"cssclasses":""}
 ---
 
 > [!summary] 
@@ -49,7 +49,7 @@ A stateful lambda is one where the result depends on any **state** that might ch
 
 ### Side-Effects
 
-Side-effects (as seen in [[schoolwork/cs2030s/FP/Pure Functions\|Pure Functions]]) can lead to incorrect results in parallel execution. Given non-thread-safe data structures, if two threads manipulate it at the same time, there can be an **incorrect result**.
+Side-effects (as seen in [[schoolwork/cs2030s/FP/Pure Functions]]) can lead to incorrect results in parallel execution. Given non-thread-safe data structures, if two threads manipulate it at the same time, there can be an **incorrect result**.
 
 ```Java
 List<Integer> list = new ArrayList<>(

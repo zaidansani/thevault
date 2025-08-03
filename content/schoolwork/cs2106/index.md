@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CS2106","tags":["CS2106","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"CS2106","tags":["CS2106","operating_systems"],"cssclasses":""}
 ---
 
 > [!definition] CS2106: Introduction to Operating Systems

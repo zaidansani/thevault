@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Inheritance","tags":["CS2030S","object_oriented_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Inheritance","tags":["CS2030S","object_oriented_programming"],"cssclasses":""}
 ---
 
 >[!summary] Modeling the _IS-A_ relationship

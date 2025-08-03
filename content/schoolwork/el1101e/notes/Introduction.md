@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["EL1101E","linguistics"],"title":"Introduction","PassFrontmatter":true}
+{"publish":true,"title":"Introduction","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 >[!info] Scope of this mod

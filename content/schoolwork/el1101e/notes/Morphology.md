@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["EL1101E","linguistics"],"title":"Morphology","PassFrontmatter":true}
+{"publish":true,"title":"Morphology","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 > [!definition] Morphology

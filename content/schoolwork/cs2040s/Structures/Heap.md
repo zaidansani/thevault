@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Heap","tags":["CS2040S","data_structures"],"PassFrontmatter":true}
+{"publish":true,"title":"Heap","tags":["CS2040S","data_structures"],"cssclasses":""}
 ---
 
 > [!info] Used to implement a max priority queue

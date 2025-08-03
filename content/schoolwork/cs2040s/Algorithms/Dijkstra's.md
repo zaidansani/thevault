@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Dijkstra's","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Dijkstra's","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 # Time Complexity

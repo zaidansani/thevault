@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Neural Networks","tags":["artificial_intelligence","neural_networks","CS2109S"],"PassFrontmatter":true}
+{"publish":true,"title":"Neural Networks","tags":["artificial_intelligence","neural_networks","CS2109S"],"cssclasses":""}
 ---
 
 # Perceptron

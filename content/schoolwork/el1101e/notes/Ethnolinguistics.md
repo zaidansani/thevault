@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["linguistics","EL1101E"],"title":"Ethnolinguistics","PassFrontmatter":true}
+{"publish":true,"title":"Ethnolinguistics","tags":["linguistics","EL1101E"],"cssclasses":""}
 ---
 
 > [!definition] Linguistic anthropology

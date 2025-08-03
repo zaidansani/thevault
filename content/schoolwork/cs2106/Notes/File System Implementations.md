@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"File System Implementations","tags":["file_system","CS2106","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"File System Implementations","tags":["file_system","CS2106","operating_systems"],"cssclasses":""}
 ---
 
 # Overview

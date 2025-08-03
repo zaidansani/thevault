@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Sequential Logic","tags":["computer_architecture","CS2100","digital_logic"],"PassFrontmatter":true}
+{"publish":true,"title":"Sequential Logic","tags":["computer_architecture","CS2100","digital_logic"],"cssclasses":""}
 ---
 
 There are 2 types of sequential circuits:

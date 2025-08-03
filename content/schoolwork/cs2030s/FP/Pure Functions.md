@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Pure Functions","tags":["CS2030S","functional_programming","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Pure Functions","tags":["CS2030S","functional_programming","java_programming"],"cssclasses":""}
 ---
 
 >[!summary] A function that does not have side effects.

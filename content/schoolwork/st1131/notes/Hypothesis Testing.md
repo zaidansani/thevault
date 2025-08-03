@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hypothesis Testing","tags":["ST1131","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Hypothesis Testing","tags":["ST1131","statistics"],"cssclasses":""}
 ---
 
 

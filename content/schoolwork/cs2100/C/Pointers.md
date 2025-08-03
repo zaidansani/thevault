@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["c_programming","CS2100"],"title":"Pointers","PassFrontmatter":true}
+{"publish":true,"title":"Pointers","tags":["c_programming","CS2100"],"cssclasses":""}
 ---
 
 > [!abstract] Pointer

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Logic Circuit","tags":["computer_architecture","CS2100","digital_logic"],"PassFrontmatter":true}
+{"publish":true,"title":"Logic Circuit","tags":["computer_architecture","CS2100","digital_logic"],"cssclasses":""}
 ---
 
 # Logic Gates

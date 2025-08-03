@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Nested Class","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Nested Class","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 > [!summary] A nested class is a class defined within a class or method.

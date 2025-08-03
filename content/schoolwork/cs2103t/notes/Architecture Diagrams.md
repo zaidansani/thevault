@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Architecture Diagrams","tags":["CS2103/T","UML"],"PassFrontmatter":true}
+{"publish":true,"title":"Architecture Diagrams","tags":["CS2103/T","UML"],"cssclasses":""}
 ---
 
 - Minimise variety of symbols

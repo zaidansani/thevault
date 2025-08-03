@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Support Vector Machines","tags":["machine_learning","CS2109S","supervised_learning","artificial_intelligence"],"PassFrontmatter":true}
+{"publish":true,"title":"Support Vector Machines","tags":["machine_learning","CS2109S","supervised_learning","artificial_intelligence"],"cssclasses":""}
 ---
 
 `# General Idea

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"title":"Recurrent Neural Networks","tags":["CS2109S","artificial_intelligence","neural_networks"],"PassFrontmatter":true}
+{"publish":true,"title":"Recurrent Neural Networks","tags":["CS2109S","artificial_intelligence","neural_networks"],"cssclasses":""}
 ---
 
-# Motivation
+ # Motivation
 
 RNNs are used for **sequential data**, where:
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Minimum Spanning Tree","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Minimum Spanning Tree","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 > [!summary] An **acyclic** subset of edges that connects all nodes with minimum weight.

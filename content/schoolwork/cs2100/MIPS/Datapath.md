@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["computer_architecture","CS2100","MIPS"],"title":"Datapath","PassFrontmatter":true}
+{"publish":true,"title":"Datapath","tags":["computer_architecture","CS2100","MIPS"],"cssclasses":""}
 ---
 
 There are two major components for a processor.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CS2109S","PassFrontmatter":true}
+{"publish":true,"title":"CS2109S","cssclasses":""}
 ---
 
 > [!definition] CS2109S: Introduction to Artificial Intelligence

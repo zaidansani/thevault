@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["ST2334","statistics"],"title":"Continuous Distributions","PassFrontmatter":true}
+{"publish":true,"title":"Continuous Distributions","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 Natural random variables have sets of uncountable possible values.

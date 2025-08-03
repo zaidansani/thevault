@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Defensive Programming","tags":["CS2103/T","software_engineering"],"PassFrontmatter":true}
+{"publish":true,"title":"Defensive Programming","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 > [!note] Defensive programming

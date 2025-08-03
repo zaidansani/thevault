@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["c_programming","CS2100"],"title":"Number Systems","PassFrontmatter":true}
+{"publish":true,"title":"Number Systems","tags":["c_programming","CS2100"],"cssclasses":""}
 ---
 
 # Data Representation

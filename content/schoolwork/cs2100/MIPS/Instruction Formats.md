@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["computer_architecture","CS2100","MIPS"],"title":"Instruction Formats","PassFrontmatter":true}
+{"publish":true,"title":"Instruction Formats","tags":["computer_architecture","CS2100","MIPS"],"cssclasses":""}
 ---
 
 > [!note] Fixed-length

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Alternative to Processes","tags":["CS2106","operating_systems","process_management"],"PassFrontmatter":true}
+{"publish":true,"title":"Alternative to Processes","tags":["CS2106","operating_systems","process_management"],"cssclasses":""}
 ---
 
 > [!note] Motivation

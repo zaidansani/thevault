@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS3213","software_engineering","software_testing"],"title":"Software Development Practices","PassFrontmatter":true}
+{"publish":true,"title":"Software Development Practices","tags":["CS3213","software_engineering","software_testing"],"cssclasses":""}
 ---
 
 > [!warning] In progress.

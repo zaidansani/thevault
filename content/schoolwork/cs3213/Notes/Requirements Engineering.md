@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS3213","software_engineering"],"title":"Requirements Engineering","PassFrontmatter":true}
+{"publish":true,"title":"Requirements Engineering","tags":["CS3213","software_engineering"],"cssclasses":""}
 ---
 
 > [!definition] Requirements

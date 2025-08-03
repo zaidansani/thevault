@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Semantics","tags":["EL1101E","linguistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Semantics","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 

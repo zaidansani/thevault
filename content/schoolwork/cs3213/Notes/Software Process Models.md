@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS3213","software_engineering"],"title":"Software Process Models","PassFrontmatter":true}
+{"publish":true,"title":"Software Process Models","tags":["CS3213","software_engineering"],"cssclasses":""}
 ---
 
 > [!definition] Software processes

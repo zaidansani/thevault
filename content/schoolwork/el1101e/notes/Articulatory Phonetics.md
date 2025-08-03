@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["EL1101E","linguistics"],"title":"Articulatory Phonetics","PassFrontmatter":true}
+{"publish":true,"title":"Articulatory Phonetics","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 Speech sounds can be split into 

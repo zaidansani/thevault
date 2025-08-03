@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Unsupervised Learning","tags":["#CS2109S","unsupervised_learning","machine_learning","artificial_intelligence"],"PassFrontmatter":true}
+{"publish":true,"title":"Unsupervised Learning","tags":["#CS2109S","unsupervised_learning","machine_learning","artificial_intelligence"],"cssclasses":""}
 ---
 
 > [!note] Supervised learning requires labels - unsupervised learning does not require labels.

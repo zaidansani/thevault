@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Synchronous and Asynchronous","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Synchronous and Asynchronous","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 >[!summary]

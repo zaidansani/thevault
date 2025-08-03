@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering"],"title":"CS2103T","PassFrontmatter":true}
+{"publish":true,"title":"CS2103T","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 > [!summary]

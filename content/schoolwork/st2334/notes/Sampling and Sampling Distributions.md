@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Sampling and Sampling Distributions","tags":["ST2334","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Sampling and Sampling Distributions","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 

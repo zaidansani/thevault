@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Prize Collecting","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Prize Collecting","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 > [!summary] Given a directed graph, find the maximum amount of "prize" (weight of edges) possible to be obtained.

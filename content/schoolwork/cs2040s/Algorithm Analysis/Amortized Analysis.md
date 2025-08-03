@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Amortized Analysis","tags":["algorithm_analysis","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Amortized Analysis","tags":["algorithm_analysis","CS2040S"],"cssclasses":""}
 ---
 
 > [!summary] 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Introduction to Operating Systems","tags":["CS2106","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"Introduction to Operating Systems","tags":["CS2106","operating_systems"],"cssclasses":""}
 ---
 
 # Motivations

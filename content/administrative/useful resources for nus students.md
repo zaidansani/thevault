@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"useful resources for nus students","PassFrontmatter":true}
+{"publish":true,"title":"useful resources for nus students","cssclasses":""}
 ---
 
 > [!summary] The following are useful resources that I've used in NUS. 

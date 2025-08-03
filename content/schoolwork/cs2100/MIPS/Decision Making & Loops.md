@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["computer_architecture","CS2100","MIPS"],"title":"Decision Making & Loops","PassFrontmatter":true}
+{"publish":true,"title":"Decision Making & Loops","tags":["computer_architecture","CS2100","MIPS"],"cssclasses":""}
 ---
 
 # Decision Making

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"EL1101E","tags":["EL1101E","linguistics"],"PassFrontmatter":true}
+{"publish":true,"title":"EL1101E","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 > [!info] EL1101E: The Nature of Language

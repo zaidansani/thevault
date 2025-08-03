@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Schoolwork","PassFrontmatter":true}
+{"publish":true,"title":"Schoolwork","cssclasses":""}
 ---
 
 

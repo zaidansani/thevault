@@ -1,5 +1,5 @@
 ---
-{"tags":["CS2109S","artificial_intelligence","machine_learning","supervised_learning","decision_tree"],"publish":true,"title":"Decision Tree","PassFrontmatter":true}
+{"publish":true,"title":"Decision Tree","tags":["C","S","2","1","0","9","S","a","r","t","i","f","i","c","i","a","l","_","i","n","t","e","l","l","i","g","e","n","c","e","m","a","c","h","i","n","e","_","l","e","a","r","n","i","n","g","s","u","p","e","r","v","i","s","e","d","_","l","e","a","r","n","i","n","g","d","e","c","i","s","i","o","n","_","t","r","e","e"],"cssclasses":""}
 ---
 
 A decision tree represents a function that

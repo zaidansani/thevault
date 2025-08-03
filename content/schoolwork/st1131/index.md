@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"ST1131","tags":["ST1131","statistics"],"toc":true,"PassFrontmatter":true}
+{"publish":true,"title":"ST1131","tags":["ST1131","statistics"],"cssclasses":""}
 ---
 
 [NUSmods](https://nusmods.com/courses/ST1131)

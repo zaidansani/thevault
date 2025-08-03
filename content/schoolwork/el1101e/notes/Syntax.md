@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Syntax","tags":["EL1101E","linguistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Syntax","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 > [!definition] Argument

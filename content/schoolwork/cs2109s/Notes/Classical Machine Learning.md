@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Classical Machine Learning","tags":["CS2109S","artificial_intelligence","machine_learning"],"PassFrontmatter":true}
+{"publish":true,"title":"Classical Machine Learning","tags":["CS2109S","artificial_intelligence","machine_learning"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Design Patterns","tags":["CS2103/T","software_engineering"],"PassFrontmatter":true}
+{"publish":true,"title":"Design Patterns","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 > [!definition] Design pattern

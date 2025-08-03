@@ -1,11 +1,11 @@
 ---
-{"publish":true,"title":"About Me","PassFrontmatter":true}
+{"publish":true,"title":"About Me","cssclasses":""}
 ---
 
 
 ![](media/zaidansani.jpg)
 
-hi, i'm **zaidan sani**, but most people just call me **zai**! i'm a computer science undergraduate at the [national university of singapore](https://nus.edu.sg/). i plan on taking a data analytics minor as well!
+hi, i'm **zaidan sani**, but most people just call me **zai**! i'm a computer science undergraduate at the [national university of singapore](https://nus.edu.sg/).
 
 for a more comprehensive listing of my experiences and achievements, head over to my [linkedin](https://www.linkedin.com/in/mzaidanbsani/). my [github](https://github.com/zaidansani) is @zaidansani.
 

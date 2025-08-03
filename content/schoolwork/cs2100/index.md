@@ -1,5 +1,5 @@
 ---
-{"publish":true,"toc":true,"title":"CS2100","tags":["c_programming","computer_architecture","CS2100","digital_logic","MIPS"],"PassFrontmatter":true}
+{"publish":true,"title":"CS2100","tags":["c_programming","computer_architecture","CS2100","digital_logic","MIPS"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Probability","tags":["ST1131","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Probability","tags":["ST1131","statistics"],"cssclasses":""}
 ---
 
 # Concepts

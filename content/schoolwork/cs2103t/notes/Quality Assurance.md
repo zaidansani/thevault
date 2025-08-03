@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering","software_testing"],"title":"Quality Assurance","PassFrontmatter":true}
+{"publish":true,"title":"Quality Assurance","tags":["CS2103/T","software_engineering","software_testing"],"cssclasses":""}
 ---
 
 # Testing

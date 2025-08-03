@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Modifiers","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Modifiers","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 # `public` & `private`

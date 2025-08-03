@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2109S","artificial_intelligence","searching"],"title":"Adversarial Search","PassFrontmatter":true}
+{"publish":true,"title":"Adversarial Search","tags":["CS2109S","artificial_intelligence","searching"],"cssclasses":""}
 ---
 
 # Motivation

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["c_programming","CS2100"],"title":"Strings","PassFrontmatter":true}
+{"publish":true,"title":"Strings","tags":["c_programming","CS2100"],"cssclasses":""}
 ---
 
 > [!abstract] String

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["c_programming","CS2100"],"title":"Arrays","PassFrontmatter":true}
+{"publish":true,"title":"Arrays","tags":["c_programming","CS2100"],"cssclasses":""}
 ---
 
 > [!info] Arrays

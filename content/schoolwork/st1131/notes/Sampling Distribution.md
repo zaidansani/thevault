@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Sampling Distribution","tags":["ST1131","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Sampling Distribution","tags":["ST1131","statistics"],"cssclasses":""}
 ---
 
 # Central Limit Theorem

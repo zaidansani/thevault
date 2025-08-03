@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Boolean Algebra","tags":["computer_architecture","CS2100","digital_logic"],"PassFrontmatter":true}
+{"publish":true,"title":"Boolean Algebra","tags":["computer_architecture","CS2100","digital_logic"],"cssclasses":""}
 ---
 
 # Digital Circuits

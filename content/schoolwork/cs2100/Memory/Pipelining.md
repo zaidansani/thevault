@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2100","memory","computer_architecture","#MIPS"],"title":"Pipelining","PassFrontmatter":true}
+{"publish":true,"title":"Pipelining","tags":["CS2100","memory","computer_architecture","#MIPS"],"cssclasses":""}
 ---
 
 > [!note] Motivation

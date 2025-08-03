@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering","UML"],"title":"Sequence Diagrams","PassFrontmatter":true}
+{"publish":true,"title":"Sequence Diagrams","tags":["CS2103/T","software_engineering","UML"],"cssclasses":""}
 ---
 
 > [!info] Sequence diagrams

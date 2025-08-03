@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["computer_architecture","CS2100","memory"],"title":"Memory","PassFrontmatter":true}
+{"publish":true,"title":"Memory","tags":["computer_architecture","CS2100","memory"],"cssclasses":""}
 ---
 
 > [!definition] Byte

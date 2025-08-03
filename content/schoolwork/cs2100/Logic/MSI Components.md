@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"MSI Components","tags":["computer_architecture","CS2100","digital_logic"],"PassFrontmatter":true}
+{"publish":true,"title":"MSI Components","tags":["computer_architecture","CS2100","digital_logic"],"cssclasses":""}
 ---
 
 > [!definition] Integrated Circuit

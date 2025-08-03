@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["computer_architecture","CS2100","MIPS"],"title":"Introduction To MIPS","PassFrontmatter":true}
+{"publish":true,"title":"Introduction To MIPS","tags":["computer_architecture","CS2100","MIPS"],"cssclasses":""}
 ---
 
 > [!todo] Instruction Set Architecture

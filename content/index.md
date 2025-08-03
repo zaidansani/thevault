@@ -1,5 +1,5 @@
 ---
-{"title":"welcome to my vault","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"welcome to my vault","cssclasses":""}
 ---
 
 
@@ -23,7 +23,7 @@ i plan on using this vault to
 
 hoping this would be helpful for anyone who has the opportunity to chance onto it!
 
-[more about me](./aboutme.md)
+[more about me](aboutme.md)
 
 # mods i've taken
 

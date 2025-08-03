@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vertex Cover for Trees","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Vertex Cover for Trees","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 > [!summary] A set of nodes where every edge is adjacent to at least one of the nodes.

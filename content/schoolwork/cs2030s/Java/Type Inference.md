@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Type Inference","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Type Inference","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 # Rules

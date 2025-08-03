@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Variance of Types","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Variance of Types","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 > [!summary] This refers to how the subtype relationship between **complex types** relates to the subtype relationship between its components.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Directory","tags":["CS2106","file_system","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"Directory","tags":["CS2106","file_system","operating_systems"],"cssclasses":""}
 ---
 
 > [!note] Directory

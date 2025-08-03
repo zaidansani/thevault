@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["ST2334","statistics"],"title":"Basic Concepts of Probability","PassFrontmatter":true}
+{"publish":true,"title":"Basic Concepts of Probability","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 # Concepts and Definition

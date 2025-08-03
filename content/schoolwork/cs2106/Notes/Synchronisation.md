@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["process_management","operating_systems","CS2106"],"title":"Synchronisation","PassFrontmatter":true}
+{"publish":true,"title":"Synchronisation","tags":["process_management","operating_systems","CS2106"],"cssclasses":""}
 ---
 
 Concurrent execution may have a couple of problems. These problems happen when two or more processes execute concurrently in interleaving fashion and share modifiable resources, which can cause [**Synchronisation Problems**](#Synchronisation%20Problems).

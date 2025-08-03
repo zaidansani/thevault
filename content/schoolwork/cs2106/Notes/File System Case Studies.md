@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"File System Case Studies","tags":["CS2106","file_system","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"File System Case Studies","tags":["CS2106","file_system","operating_systems"],"cssclasses":""}
 ---
 
 # Microsoft FAT File System

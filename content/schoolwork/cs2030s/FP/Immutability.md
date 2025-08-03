@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Immutability","tags":["CS2030S","functional_programming","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Immutability","tags":["CS2030S","functional_programming","java_programming"],"cssclasses":""}
 ---
 
 >[!summary] If an object is immutable, once it has been initialised, it cannot be changed.

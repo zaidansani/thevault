@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CS2040S","tags":["algorithm_analysis","algorithms","CS2040S","data_structures"],"PassFrontmatter":true}
+{"publish":true,"title":"CS2040S","tags":["algorithm_analysis","algorithms","CS2040S","data_structures"],"cssclasses":""}
 ---
 
 [NUSmods](https://nusmods.com/courses/CS2040S)

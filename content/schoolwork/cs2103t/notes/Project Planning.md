@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Project Planning","tags":["CS2103/T","software_engineering"],"PassFrontmatter":true}
+{"publish":true,"title":"Project Planning","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 # Milestone

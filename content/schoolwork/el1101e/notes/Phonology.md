@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["EL1101E","linguistics"],"title":"Phonology","PassFrontmatter":true}
+{"publish":true,"title":"Phonology","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 > [!note] Remark

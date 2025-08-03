@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering"],"title":"Software Development Life Cycle","PassFrontmatter":true}
+{"publish":true,"title":"Software Development Life Cycle","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 # Fundamental Approaches

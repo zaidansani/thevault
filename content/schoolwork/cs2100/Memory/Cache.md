@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2100","memory","computer_architecture"],"title":"Cache","PassFrontmatter":true}
+{"publish":true,"title":"Cache","tags":["CS2100","memory","computer_architecture"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Datapath (Summary)","tags":["computer_architecture","CS2100","MIPS"],"PassFrontmatter":true}
+{"publish":true,"title":"Datapath (Summary)","tags":["computer_architecture","CS2100","MIPS"],"cssclasses":""}
 ---
 
 ```C

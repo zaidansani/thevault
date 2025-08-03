@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Estimation","tags":["ST2334","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Estimation","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 # Types of Estimation

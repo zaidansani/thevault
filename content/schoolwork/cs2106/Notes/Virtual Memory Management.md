@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Virtual Memory Management","tags":["CS2106","memory","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"Virtual Memory Management","tags":["CS2106","memory","operating_systems"],"cssclasses":""}
 ---
 
 Previously, two assumptions:

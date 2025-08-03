@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["ST2334","statistics"],"title":"Discrete Distributions","PassFrontmatter":true}
+{"publish":true,"title":"Discrete Distributions","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 > [!definition] Discrete Uniform Distribution

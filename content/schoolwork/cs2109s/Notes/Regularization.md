@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Regularization","tags":["CS2109S","machine_learning","supervised_learning","artificial_intelligence"],"PassFrontmatter":true}
+{"publish":true,"title":"Regularization","tags":["CS2109S","machine_learning","supervised_learning","artificial_intelligence"],"cssclasses":""}
 ---
 
 

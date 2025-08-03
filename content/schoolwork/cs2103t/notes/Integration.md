@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering"],"title":"Integration","PassFrontmatter":true}
+{"publish":true,"title":"Integration","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 # Build Automation

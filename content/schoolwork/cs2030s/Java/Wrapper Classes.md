@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Wrapper Classes","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Wrapper Classes","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 >[!summary] Used to make primitive types non-primitive, allowing them to be used in generics, and other uses.

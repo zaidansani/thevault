@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering","UML"],"title":"Class and Object Modelling","PassFrontmatter":true}
+{"publish":true,"title":"Class and Object Modelling","tags":["CS2103/T","software_engineering","UML"],"cssclasses":""}
 ---
 
 - # Class Diagrams

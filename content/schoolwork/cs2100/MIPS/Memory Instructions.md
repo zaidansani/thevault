@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["computer_architecture","CS2100","MIPS"],"title":"Memory Instructions","PassFrontmatter":true}
+{"publish":true,"title":"Memory Instructions","tags":["computer_architecture","CS2100","MIPS"],"cssclasses":""}
 ---
 
 The memory can be viewed as a large single-dimension array of memory locations with an address.

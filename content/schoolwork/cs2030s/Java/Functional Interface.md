@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Functional Interface","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Functional Interface","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 >[!summary] [[schoolwork/cs2030s/Java/Abstract Class & Interfaces\|Interface]] with only one abstract method.

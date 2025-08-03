@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering"],"title":"Architecture","PassFrontmatter":true}
+{"publish":true,"title":"Architecture","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 > [!definition] Architecture

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Kernel Methods","tags":["machine_learning","supervised_learning","CS2109S"],"PassFrontmatter":true}
+{"publish":true,"title":"Kernel Methods","tags":["machine_learning","supervised_learning","CS2109S"],"cssclasses":""}
 ---
 
 # Kernel Methods

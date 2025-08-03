@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Stream","tags":["CS2030S","functional_programming","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Stream","tags":["CS2030S","functional_programming","java_programming"],"cssclasses":""}
 ---
 
 > [!summary] A `Stream` is a [[schoolwork/cs2030s/FP/Monads\|monad]] that is lazy, in which it could have a infinite list of elements. 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Design Approaches","tags":["CS2103/T","software_engineering"],"PassFrontmatter":true}
+{"publish":true,"title":"Design Approaches","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 Multi-level design can be done in

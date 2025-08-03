@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Memory Abstraction","tags":["memory","CS2106","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"Memory Abstraction","tags":["memory","CS2106","operating_systems"],"cssclasses":""}
 ---
 
 # Hardware

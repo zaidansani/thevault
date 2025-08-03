@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Conceptual Class Diagrams","tags":["CS2103/T","software_engineering","UML"],"PassFrontmatter":true}
+{"publish":true,"title":"Conceptual Class Diagrams","tags":["CS2103/T","software_engineering","UML"],"cssclasses":""}
 ---
 
 > [!definition] Domain modeling

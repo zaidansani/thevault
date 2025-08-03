@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Disjoint Memory Schemes","tags":["CS2106","memory","operating_systems"],"PassFrontmatter":true}
+{"publish":true,"title":"Disjoint Memory Schemes","tags":["CS2106","memory","operating_systems"],"cssclasses":""}
 ---
 
 Previously, two assumptions:

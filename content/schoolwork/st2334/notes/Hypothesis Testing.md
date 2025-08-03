@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hypothesis Testing","tags":["ST2334","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Hypothesis Testing","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 > [!note] The five main steps

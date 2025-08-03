@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","java_programming","software_engineering"],"title":"Logging","PassFrontmatter":true}
+{"publish":true,"title":"Logging","tags":["CS2103/T","java_programming","software_engineering"],"cssclasses":""}
 ---
 
 > [!definition] Logging

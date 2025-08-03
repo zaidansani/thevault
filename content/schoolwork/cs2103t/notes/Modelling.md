@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering","UML"],"title":"Modelling","PassFrontmatter":true}
+{"publish":true,"title":"Modelling","tags":["CS2103/T","software_engineering","UML"],"cssclasses":""}
 ---
 
 Models are useful in several ways:

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"toc":true,"title":"ST2334","tags":["ST2334","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"ST2334","tags":["ST2334","statistics"],"cssclasses":""}
 ---
 
 > [!tldr] ST2334: Probability and Statistics

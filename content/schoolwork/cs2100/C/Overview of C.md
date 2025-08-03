@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["c_programming","CS2100"],"title":"Overview of C","PassFrontmatter":true}
+{"publish":true,"title":"Overview of C","tags":["c_programming","CS2100"],"cssclasses":""}
 ---
 
 > [!info] C Programming language

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Monads","tags":["CS2030S","functional_programming","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Monads","tags":["CS2030S","functional_programming","java_programming"],"cssclasses":""}
 ---
 
 > [!summary] A monad is a type of programming paradigm, that is usually fulfilled by a `flatMap` or equivalent operation.

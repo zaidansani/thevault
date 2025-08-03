@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS3213","software_engineering","software_testing"],"title":"Debugging","PassFrontmatter":true}
+{"publish":true,"title":"Debugging","tags":["CS3213","software_engineering","software_testing"],"cssclasses":""}
 ---
 
 # Motivation

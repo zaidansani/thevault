@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Supervised Learning","tags":["CS2109S","artificial_intelligence","machine_learning","supervised_learning"],"PassFrontmatter":true}
+{"publish":true,"title":"Supervised Learning","tags":["CS2109S","artificial_intelligence","machine_learning","supervised_learning"],"cssclasses":""}
 ---
 
 Supervised learning learns to map **inputs** to **outputs** by minimising the difference between its predictions and the provided correct outputs/answers (**ground truth**). 

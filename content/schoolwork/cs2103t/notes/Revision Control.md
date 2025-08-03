@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","git","software_engineering"],"title":"Revision Control","PassFrontmatter":true}
+{"publish":true,"title":"Revision Control","tags":["CS2103/T","git","software_engineering"],"cssclasses":""}
 ---
 
 

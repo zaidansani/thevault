@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Intelligent Agents","tags":["CS2109S","artificial_intelligence"],"PassFrontmatter":true}
+{"publish":true,"title":"Intelligent Agents","tags":["CS2109S","artificial_intelligence"],"cssclasses":""}
 ---
 
 # PEAS Framework

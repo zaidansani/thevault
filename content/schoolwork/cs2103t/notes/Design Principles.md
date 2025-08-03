@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Design Principles","tags":["CS2103/T","software_engineering"],"PassFrontmatter":true}
+{"publish":true,"title":"Design Principles","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 # SOLID Principles

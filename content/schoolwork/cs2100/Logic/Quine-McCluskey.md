@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quine-McCluskey","tags":["computer_architecture","CS2100","digital_logic"],"PassFrontmatter":true}
+{"publish":true,"title":"Quine-McCluskey","tags":["computer_architecture","CS2100","digital_logic"],"cssclasses":""}
 ---
 
 > [!note] This topic is optional.

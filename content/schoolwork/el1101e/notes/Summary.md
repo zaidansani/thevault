@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Summary","PassFrontmatter":true}
+{"publish":true,"title":"Summary","cssclasses":""}
 ---
 
 # Phonetics

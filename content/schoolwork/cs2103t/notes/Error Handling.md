@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering"],"title":"Error Handling","PassFrontmatter":true}
+{"publish":true,"title":"Error Handling","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 # Assertions

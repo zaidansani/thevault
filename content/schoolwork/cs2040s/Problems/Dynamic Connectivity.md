@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Dynamic Connectivity","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Dynamic Connectivity","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 > [!summary] Finding the shortest path between a pair of vertices.

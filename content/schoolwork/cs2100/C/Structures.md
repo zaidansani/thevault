@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["c_programming","CS2100"],"title":"Structures","PassFrontmatter":true}
+{"publish":true,"title":"Structures","tags":["c_programming","CS2100"],"cssclasses":""}
 ---
 
 > [!abstract] Structures

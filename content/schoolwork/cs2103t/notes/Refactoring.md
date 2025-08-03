@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","software_engineering"],"title":"Refactoring","PassFrontmatter":true}
+{"publish":true,"title":"Refactoring","tags":["CS2103/T","software_engineering"],"cssclasses":""}
 ---
 
 > [!definition] Refactoring

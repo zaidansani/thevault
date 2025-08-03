@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["c_programming","CS2100"],"title":"Functions","PassFrontmatter":true}
+{"publish":true,"title":"Functions","tags":["c_programming","CS2100"],"cssclasses":""}
 ---
 
 # Libraries

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Single Source Shortest Path","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Single Source Shortest Path","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 no> [!summary] Finding the shortest path between a pair of vertices.

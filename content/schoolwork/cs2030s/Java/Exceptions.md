@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Exceptions","tags":["CS2030S","java_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Exceptions","tags":["CS2030S","java_programming"],"cssclasses":""}
 ---
 
 > [!summary] Exception handling and error handling needs to be done for a fully-working application.
@@ -40,7 +40,7 @@ An unchecked exception, if not caught, will propagate automatically down the sta
 
 # Overriding
 
-With regards to [overriding](../OOP/Overriding%20and%20Overloading.md), the overriding method must throw only the **same, or a more specific** exception than the overriding method to ensure that the [[schoolwork/cs2030s/OOP/LSP\|../OOP/LSP]] is followed.
+With regards to [overriding](../OOP/Overriding%20and%20Overloading.md), the overriding method must throw only the **same, or a more specific** exception than the overriding method to ensure that the [[schoolwork/cs2030s/OOP/LSP]] is followed.
 
 # Good Practices
 

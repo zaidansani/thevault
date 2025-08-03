@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Linear Regression","tags":["ST1131","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Linear Regression","tags":["ST1131","statistics"],"cssclasses":""}
 ---
 
 

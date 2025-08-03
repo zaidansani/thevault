@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Dynamic Programming","tags":["algorithms","CS2040S"],"PassFrontmatter":true}
+{"publish":true,"title":"Dynamic Programming","tags":["algorithms","CS2040S"],"cssclasses":""}
 ---
 
 Dynamic programming is a type of computational thinking that has two key properties:

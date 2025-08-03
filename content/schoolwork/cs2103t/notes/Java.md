@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","java_programming","software_engineering"],"title":"Java","PassFrontmatter":true}
+{"publish":true,"title":"Java","tags":["CS2103/T","java_programming","software_engineering"],"cssclasses":""}
 ---
 
 # JavaDoc

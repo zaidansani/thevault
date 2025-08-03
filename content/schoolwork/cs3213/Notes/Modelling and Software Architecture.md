@@ -1,5 +1,5 @@
 ---
-{"tags":["CS3213","software_engineering","modelling"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"tags":["C","S","3","2","1","3","s","o","f","t","w","a","r","e","_","e","n","g","i","n","e","e","r","i","n","g","m","o","d","e","l","l","i","n","g"],"cssclasses":""}
 ---
 
 > [!warning] In progress.

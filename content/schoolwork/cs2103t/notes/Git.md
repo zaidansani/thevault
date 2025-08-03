@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2103/T","git","software_engineering"],"title":"Git","PassFrontmatter":true}
+{"publish":true,"title":"Git","tags":["CS2103/T","git","software_engineering"],"cssclasses":""}
 ---
 
 # Setup

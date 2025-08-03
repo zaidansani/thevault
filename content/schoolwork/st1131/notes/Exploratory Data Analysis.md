@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Exploratory Data Analysis","tags":["ST1131","statistics"],"PassFrontmatter":true}
+{"publish":true,"title":"Exploratory Data Analysis","tags":["ST1131","statistics"],"cssclasses":""}
 ---
 
 > [!note] **Exploratory data analysis** refers to the analysis of the variables (descriptive statistics) in a study.

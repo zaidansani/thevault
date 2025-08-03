@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Control","tags":["computer_architecture","CS2100","MIPS"],"PassFrontmatter":true}
+{"publish":true,"title":"Control","tags":["computer_architecture","CS2100","MIPS"],"cssclasses":""}
 ---
 
 Control signals are generated based on the instruction to be executed. Thus, a combinational circuit to generate signals based on opcode and function codes.

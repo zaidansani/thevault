@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["EL1101E","linguistics"],"title":"Word Class","PassFrontmatter":true}
+{"publish":true,"title":"Word Class","tags":["EL1101E","linguistics"],"cssclasses":""}
 ---
 
 > [!definition] Word class

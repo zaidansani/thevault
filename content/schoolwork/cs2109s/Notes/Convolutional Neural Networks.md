@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Convolutional Neural Networks","tags":["neural_networks","artificial_intelligence","CS2109S"],"PassFrontmatter":true}
+{"publish":true,"title":"Convolutional Neural Networks","tags":["neural_networks","artificial_intelligence","CS2109S"],"cssclasses":""}
 ---
 
 A convolutional neural network takes a $n$-dimensional input.

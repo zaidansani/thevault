@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2109S","artificial_intelligence","supervised_learning","machine_learning"],"title":"Linear Regression","PassFrontmatter":true}
+{"publish":true,"title":"Linear Regression","tags":["CS2109S","artificial_intelligence","supervised_learning","machine_learning"],"cssclasses":""}
 ---
 
 Linear regression is used for the hypothesis space for linear functions of continuous-valued inputs.

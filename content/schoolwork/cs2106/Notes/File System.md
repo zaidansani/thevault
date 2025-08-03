@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"File System","tags":["CS2106","operating_systems","file_system"],"PassFrontmatter":true}
+{"publish":true,"title":"File System","tags":["CS2106","operating_systems","file_system"],"cssclasses":""}
 ---
 
 > [!motivation] Motivation

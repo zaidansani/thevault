@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["CS2109S","artificial_intelligence","machine_learning","supervised_learning"],"title":"Logistic Regression","PassFrontmatter":true}
+{"publish":true,"title":"Logistic Regression","tags":["CS2109S","artificial_intelligence","machine_learning","supervised_learning"],"cssclasses":""}
 ---
 
 > [!motivation] 

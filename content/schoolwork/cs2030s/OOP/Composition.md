@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Composition","tags":["CS2030S","object_oriented_programming"],"PassFrontmatter":true}
+{"publish":true,"title":"Composition","tags":["CS2030S","object_oriented_programming"],"cssclasses":""}
 ---
 
 >[!summary] Modelling a _HAS-A_ relationship

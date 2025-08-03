@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CS3213","PassFrontmatter":true}
+{"publish":true,"title":"CS3213","cssclasses":""}
 ---
 
 > [!definition] CS3213: Foundations of Software Engineering
